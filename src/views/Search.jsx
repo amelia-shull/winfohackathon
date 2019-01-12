@@ -15,6 +15,8 @@ import ProductSection from "./LandingPage/Sections/ProductSection.jsx";
 import CustomInput from "components/CustomInput/CustomInput.jsx";
 import './bootstrap.css';
 import "./Search.css";
+import "./quiz-style.css";
+
 const dashboardRoutes = [];
 
 export class Search extends React.Component {
@@ -28,34 +30,66 @@ export class Search extends React.Component {
         this.setState({search: event.target.value});
     }
 
+    handleClick = (event) => {
+        event.preventDefault();
+        console.log(this.state.search);
+
+    }
+
     render() {
         const { classes, ...rest } = this.props;
         return (
-            <div>
-                <Header
+            <div className="quiz">
+                <Header className="quiz-header"
                     color="white"
                     routes={dashboardRoutes}
-                    brand="Name goes here"
                     rightLinks={<HeaderLinks />}
+                    brand="Brand goes here"
                     fixed
+                    changeColorOnScroll={{
+                        height: 400,
+                        color: "white"
+                    }}
                     {...rest}
                 />
-            <div class="jumbotron"></div>
-                <div class="container">
+                <div className="transparent-box">
                     <form>
-                        <div class="form-group">
-                            <label for="search">Search makeup brands</label>
-                            <input type="text" className="form-control" 
-                                    value={this.state.search}
-                                    onChange={this.handleChange}
-                                    placeholder="Enter brand"></input>
-                        </div>
-                        <button type="submit" className="btn btn-primary btn-md">Search</button>
-                    </form>
-            </div>
-            <ProductList search={this.state.search}></ProductList>
-            <Footer></Footer>
-            </div>
+                         <div class="form-group">
+                             <label for="search">Search makeup brands</label>
+                             <input type="text" className="form-control" 
+                                     value={this.state.search}
+                                     onChange={this.handleChange}
+                                     placeholder="Enter brand"></input>
+                         </div>
+                         <button type="submit" onClick={this.handleClick} className="btn btn-primary btn-md">Search</button>
+                     </form>
+                    </div>
+                </div>
+            // <div>
+            //     <Header
+            //         color="white"
+            //         routes={dashboardRoutes}
+            //         brand="Name goes here"
+            //         rightLinks={<HeaderLinks />}
+            //         fixed
+            //         {...rest}
+            //     />
+            // <div class="jumbotron"></div>
+            //     <div class="container">
+            //         <form>
+            //             <div class="form-group">
+            //                 <label for="search">Search makeup brands</label>
+            //                 <input type="text" className="form-control" 
+            //                         value={this.state.search}
+            //                         onChange={this.handleChange}
+            //                         placeholder="Enter brand"></input>
+            //             </div>
+            //             <button type="submit" className="btn btn-primary btn-md">Search</button>
+            //         </form>
+            // </div>
+            // <ProductList search={this.state.search}></ProductList>
+            //<Footer></Footer>
+            //</div>
         )
     }
 }
@@ -64,7 +98,7 @@ class ProductList extends React.Component {
     render() {
         return (
         <div>
-            
+
         </div>);
     }
 }
