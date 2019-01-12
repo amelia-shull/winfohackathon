@@ -21,7 +21,7 @@ class ProductSection extends React.Component {
         <GridContainer justify="center">
           <GridItem xs={12} sm={12} md={8}>
             <h2 className={classes.title}>Why cruelty-free makeup?</h2>
-            <h5 className={classes.description}>
+            <h5 className={classes.description}>test
               It's 2019, animal testing is no longer necessary to determine if cosmetic products are safe. 
               Yet, animal testing is still very common. It's not just mice and rats either. Bunnies and Beagles
               are very commonly tested on. In 2013 it was estimated that 67,772 dogs and 24,221 cats were used
@@ -54,7 +54,8 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="Vegan"
-                description="Vegan products are different than cruelty-free products. For example, a product could be vegan but ingredients could have been tested on animals. Cruelty-free and vegan aren't mutually exlcusive and that's important to remember."
+                description="Vegan products are different than cruelty-free products. For example, a product could be vegan but ingredients could have been tested on animals. 
+                Cruelty-free and vegan aren't mutually exlcusive and that's important to remember."
                 icon={Chat}
                 iconColor="danger"
                 vertical
