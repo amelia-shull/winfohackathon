@@ -1,0 +1,21 @@
+.card {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+body {
+    background-image: url('../assets/img/makeup.jpeg');
+    background-position: fill;
+}
+
+.quiz {
+    padding: 5rem;
+}
+
+.transparent-box {
+    background-color: rgba(255, 255, 255, 0.712);
+    text-align: center;
+    padding: 2rem;
+    margin-top: 1rem;
+}
