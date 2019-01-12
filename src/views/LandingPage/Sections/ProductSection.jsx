@@ -36,7 +36,7 @@ class ProductSection extends React.Component {
                 title="Cruelty-free product"
                 description="A product is deemed cruelty-free if the company doesn't test any of its products on
                 animals regardless of laws."
-                icon={Chat}
+                icon="https://img.icons8.com/color/96/000000/cream-tube.png"
                 iconColor="info"
                 vertical
               />
@@ -46,7 +46,7 @@ class ProductSection extends React.Component {
                 title="Cruelty-free ingredients"
                 description="Another important part of cruelty-free makeup is that none of the ingredients used have been tested on animals.
                 There is a bank of over 7,000 ingredients that are known to be safe for cosmetic use. Companies can just refernce that."
-                icon={Chat}
+                icon="https://img.icons8.com/color/96/000000/beeswax.png"
                 iconColor="success"
                 vertical
               />
@@ -56,7 +56,7 @@ class ProductSection extends React.Component {
                 title="Vegan"
                 description="Vegan products are different than cruelty-free products. For example, a product could be vegan but ingredients could have been tested on animals. 
                 Cruelty-free and vegan aren't mutually exlcusive and that's important to remember."
-                icon={Chat}
+                icon="https://img.icons8.com/color/96/000000/natural-food.png"
                 iconColor="danger"
                 vertical
               />
