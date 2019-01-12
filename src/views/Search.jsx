@@ -1,4 +1,5 @@
 import React from "react";
+import {NavLink, Link} from "react-router-dom";
 // nodejs library that concatenates classes
 import classNames from "classnames";
 // @material-ui/core components
@@ -44,7 +45,7 @@ export class Search extends React.Component {
                     color="white"
                     routes={dashboardRoutes}
                     rightLinks={<HeaderLinks />}
-                    brand="Brand goes here"
+                    brand="Brand name here"
                     fixed
                     changeColorOnScroll={{
                         height: 400,

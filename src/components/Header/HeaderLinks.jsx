@@ -23,6 +23,9 @@ function HeaderLinks({ ...props }) {
   const { classes } = props;
   return (
     <List className={classes.list}>
+      <ListItem className={classes.listItem}>
+        <NavLink className={classes.navLink} to="/">Home</NavLink>
+      </ListItem>
 
       <ListItem className={classes.listItem}>
         <NavLink className={classes.navLink} to="/search">Search</NavLink>
