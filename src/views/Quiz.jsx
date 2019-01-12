@@ -119,7 +119,7 @@ export class Quiz extends React.Component {
                 />
                 <div className="transparent-box">
                     <h2>Test your knowledge on cruelty-free brands!</h2>
-                    <Card style={{width: "20rem"}} className="card">
+                    <Card style={{width: "22rem"}} className="card">
                         <img
                             style={{height: "180px", width: "auto", display: "block"}}
                             src={url}

@@ -43,5 +43,10 @@ export let brands = [
         brand: "Chanel",
         crueltyFree: false,
         logo: "chanel.jpg"
+    },
+    {
+        brand: "Estee Lauder",
+        crueltyFree: false,
+        logo: "estee.png"
     }
 ];
