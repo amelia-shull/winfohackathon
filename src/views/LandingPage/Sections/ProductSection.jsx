@@ -20,13 +20,9 @@ class ProductSection extends React.Component {
       <div className={classes.section}>
         <GridContainer justify="center">
           <GridItem xs={12} sm={12} md={8}>
-            <h2 className={classes.title}>Let's talk product</h2>
+            <h2 className={classes.title}>Why cruelty-free makeup?</h2>
             <h5 className={classes.description}>
-              This is the paragraph where you can write more details about your
-              product. Keep you user engaged by providing meaningful
-              information. Remember that by this time, the user is curious,
-              otherwise he wouldn't scroll to get here. Add a button if you want
-              the user to see more.
+              
             </h5>
           </GridItem>
         </GridContainer>
@@ -34,8 +30,8 @@ class ProductSection extends React.Component {
           <GridContainer>
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
-                title="Free Chat"
-                description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
+                title="The product"
+                description="Products listed on this site have not been tested on animals in any country."
                 icon={Chat}
                 iconColor="info"
                 vertical
@@ -43,18 +39,18 @@ class ProductSection extends React.Component {
             </GridItem>
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
-                title="Verified Users"
-                description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
-                icon={VerifiedUser}
+                title="Ingredients"
+                description="Another important part of cruelty-free makeup is that none of the ingredients used have been tested on animals."
+                icon={Chat}
                 iconColor="success"
                 vertical
               />
             </GridItem>
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
-                title="Fingerprint"
-                description="Divide details about your product or agency work into parts. Write a few lines about each one. A paragraph describing a feature will be enough."
-                icon={Fingerprint}
+                title="Vegan"
+                description="Vegan products are different than cruelty-free products. For example, a product could be vegan but ingredients could have been tested on animals. Cruelty-free and vegan aren't mutually exlcusive and that's important to remember."
+                icon={Chat}
                 iconColor="danger"
                 vertical
               />
