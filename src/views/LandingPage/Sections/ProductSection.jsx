@@ -22,7 +22,10 @@ class ProductSection extends React.Component {
           <GridItem xs={12} sm={12} md={8}>
             <h2 className={classes.title}>Why cruelty-free makeup?</h2>
             <h5 className={classes.description}>
-              
+              It's 2019, animal testing is no longer necessary to determine if cosmetic products are safe. 
+              Yet, animal testing is still very common. It's not just mice and rats either. Bunnies and Beagles
+              are very commonly tested on. In 2013 it was estimated that 67,772 dogs and 24,221 cats were used
+              in animal testing in the US. You can do your part by buying cruelty-free cosmetics. 
             </h5>
           </GridItem>
         </GridContainer>
@@ -30,8 +33,9 @@ class ProductSection extends React.Component {
           <GridContainer>
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
-                title="The product"
-                description="Products listed on this site have not been tested on animals in any country."
+                title="Cruelty-free product"
+                description="A product is deemed cruelty-free if the company doesn't test any of its products on
+                animals regardless of laws."
                 icon={Chat}
                 iconColor="info"
                 vertical
@@ -39,8 +43,9 @@ class ProductSection extends React.Component {
             </GridItem>
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
-                title="Ingredients"
-                description="Another important part of cruelty-free makeup is that none of the ingredients used have been tested on animals."
+                title="Cruelty-free ingredients"
+                description="Another important part of cruelty-free makeup is that none of the ingredients used have been tested on animals.
+                There is a bank of over 7,000 ingredients that are known to be safe for cosmetic use. Companies can just refernce that."
                 icon={Chat}
                 iconColor="success"
                 vertical
