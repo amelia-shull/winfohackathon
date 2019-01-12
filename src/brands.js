@@ -45,7 +45,3 @@ export let brands = [
         logo: "chanel.jpg"
     }
 ];
-
-for (let i = 0; i < brands.size(); i++) {
-    
-}
