@@ -1,0 +1,37 @@
+.search-area {
+    top:50%;
+    display:block;
+    padding: 20px;
+}
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+    top: 100px !important;
+}
+
+.ptext, .ptext-welcome {
+    position: absolute;
+    top: calc(50% - 16px);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+body, html {
+    height: 100%;
+}
+
+.jumbotron {
+    max-height: 70px;
+}
+/* .vertical-center {
+    min-height: 10%;  /* Fallback for browsers do NOT support vh unit */
+    /* These two lines are counted as one :-)       */
+  
+    /* display: flex;
+    align-items: center;
+  } */ 
