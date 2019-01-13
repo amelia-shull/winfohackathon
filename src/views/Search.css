@@ -29,13 +29,9 @@ body, html {
     height: 100%;
 }
 
-.jumbotron {
-    max-height: 70px;
+.card-img-top {
+    width: 100px;
+    height: 150px;
+    object-fit: contain;
+    padding-top: 10px;
 }
-/* .vertical-center {
-    min-height: 10%;  /* Fallback for browsers do NOT support vh unit */
-    /* These two lines are counted as one :-)       */
-  
-    /* display: flex;
-    align-items: center;
-  } */ 
