@@ -1,4 +1,4 @@
-[
+export let DATA = [
   {
     "brand": "Abba",
     "product_name": "Pure Color Protection Shampoo",
@@ -1162,7 +1162,7 @@
   },
   {
     "brand": "Anastasia Beverly Hills",
-    "product_name": "Waterproof Crème Color",
+    "product_name": "Waterproof Crï¿½me Color",
     "product_type": "Eyes",
     "price": "$18.00",
     "rating_stars": 4,
@@ -3079,7 +3079,7 @@
   },
   {
     "brand": "bareMinerals",
-    "product_name": "Blemish Remedy Acne Treatment Gelée Cleanser",
+    "product_name": "Blemish Remedy Acne Treatment Gelï¿½e Cleanser",
     "product_type": "Cleansers",
     "price": "$20.00",
     "rating_stars": 4.6,
@@ -3574,7 +3574,7 @@
   },
   {
     "brand": "Becca",
-    "product_name": "BECCA x Khloé Kardashian & Malika Haqq Bronze, Blush & Glow Palette",
+    "product_name": "BECCA x Khloï¿½ Kardashian & Malika Haqq Bronze, Blush & Glow Palette",
     "product_type": "Face",
     "price": "$44.00",
     "rating_stars": 4.1,
@@ -3655,7 +3655,7 @@
   },
   {
     "brand": "Becca",
-    "product_name": "BECCA x Khloé Kardashian & Malika Haqq Ultimate Lipstick Love",
+    "product_name": "BECCA x Khloï¿½ Kardashian & Malika Haqq Ultimate Lipstick Love",
     "product_type": "Lips",
     "price": "$24.00",
     "rating_stars": 4.2,
@@ -3673,7 +3673,7 @@
   },
   {
     "brand": "Becca",
-    "product_name": "BECCA x Khloé Kardashian & Malika Haqq Glow Letters",
+    "product_name": "BECCA x Khloï¿½ Kardashian & Malika Haqq Glow Letters",
     "product_type": "Face",
     "price": "$18.00",
     "rating_stars": 2.4,
