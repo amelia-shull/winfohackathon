@@ -15,9 +15,9 @@ import Parallax from "components/Parallax/Parallax.jsx";
 import ProductSection from "./LandingPage/Sections/ProductSection.jsx";
 import CustomInput from "components/CustomInput/CustomInput.jsx";
 
-import './bootstrap.css';
 import "./Search.css";
 import "./quiz-style.css";
+import './bootstrap.css';
 
 const dashboardRoutes = [];
 
@@ -85,7 +85,7 @@ class ProductItem extends React.Component {
     render() {
         return(
             <div class="card">
-                <img src="https://www.sephora.com/productimages/sku/s2178630-main-zoom.jpg"
+                <img src="https://images.ulta.com/is/image/Ulta/2524826"
                  className="card-img-top" alt="concealer"></img>
                 <div class="card-body">
                 <h5 class="card-title">Card title</h5>
