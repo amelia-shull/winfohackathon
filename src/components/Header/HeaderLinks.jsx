@@ -28,11 +28,11 @@ function HeaderLinks({ ...props }) {
       </ListItem>
 
       <ListItem className={classes.listItem}>
-        <NavLink className={classes.navLink} to="/search">Search</NavLink>
+        <NavLink className={classes.navLink} to="/search">Search for Products</NavLink>
       </ListItem>
 
       <ListItem className={classes.listItem}>
-        <NavLink className={classes.navLink} to="/quiz">Quiz</NavLink>
+        <NavLink className={classes.navLink} to="/quiz">Learn More</NavLink>
       </ListItem>
       
     </List>

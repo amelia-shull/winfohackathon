@@ -7,6 +7,8 @@ import Button from "components/CustomButtons/Button.jsx";
 
 import Card from "components/Card/Card.jsx";
 import CardBody from "components/Card/CardBody.jsx";
+import InfoArea from "components/InfoArea/InfoArea.jsx";
+
 
 import imagesStyles from "assets/jss/material-kit-react/imagesStyles.jsx";
 
@@ -75,7 +77,7 @@ export class Quiz extends React.Component {
                     <h2>Game Over!</h2>
                     <Card style={{width: "20rem"}} className="card">
                         <CardBody>
-                            <h3>{this.state.number + " correct out of " + brands.length}</h3>
+                            <h3>{this.state.number + " out of " + brands.length + " correct"}</h3>
                             <Button color="primary" onClick={() => this.resetGame()}>Play Again</Button>
                         </CardBody>
                     </Card>
@@ -120,7 +122,7 @@ export class Quiz extends React.Component {
                 <div className="transparent-box">
                     <h2>Test your knowledge on cruelty-free brands!</h2>
                     <p>You may be surprised. Many of your favorite brands could test on animals.</p>
-                    <Card style={{width: "22rem"}} className="card">
+                    <Card style={{width: "25rem"}} className="card">
                         <img
                             style={{height: "180px", display: "block", objectFit: "contain"}}
                             src={url}
@@ -131,6 +133,16 @@ export class Quiz extends React.Component {
                             {buttons}
                         </CardBody>
                     </Card>
+                    <br></br>
+                    <InfoArea
+                        title="Want to learn more?"
+                        description="To find more cruelty-free brands, visit our search page.
+                         To learn more about cruelty-free makeup and its different categorizations
+                         you can visit websites like peta.org or crueltyfreekitty.com"
+                        icon="https://img.icons8.com/color/96/000000/info.png"
+                        iconColor="info"
+                        vertical
+                    />
                 </div>
             </div>
         )
