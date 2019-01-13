@@ -33,6 +33,15 @@ const DATA = [
       "image_url": "https://images.ulta.com/is/image/Ulta/2524826"
     },
     {
+        "brand": "Becca",
+        "product_name": "Pure Color Protection Shampoo v2",
+        "product_type": "Shampoo & Conditioner",
+        "price": "$38.00",
+        "rating_stars": 3.2,
+        "rating_count": 6,
+        "image_url": "https://images.ulta.com/is/image/Ulta/2524826"
+    },
+    {
       "brand": "Ardell",
       "product_name": "Faux Mink Lash #811",
       "product_type": "Eyes",
@@ -75,7 +84,8 @@ export class Search extends React.Component {
         super(props);
         this.state = {
             search: '',
-            dataArray: []
+            dataArray: [],
+            brand: undefined
         };
     }
 
@@ -83,15 +93,22 @@ export class Search extends React.Component {
         this.setState({search: event.target.value});
     }
 
-    handleClick = (event) => {
+    handleClickBrand = (event) => {
         event.preventDefault();
         let filteredData = DATA.filter((item) => {
             // console.log(item.brand);
             // console.log(item.brand.toLowerCase().includes(this.state.search));
-            return item.brand.toLowerCase().includes(this.state.search);
+            return item.brand.toLowerCase().includes(this.state.search.toLowerCase());
         });
-        console.log(filteredData);
-        this.setState({dataArray: filteredData});
+        this.setState({dataArray: filteredData, brand:true});
+    }
+
+    handleClickProduct = (event) => {
+        event.preventDefault();
+        let filteredData = DATA.filter((item) => {
+            return item.product_name.toLowerCase().includes(this.state.search.toLowerCase());
+        });
+        this.setState({dataArray: filteredData, brand:false});
     }
 
     render() {
@@ -119,10 +136,10 @@ export class Search extends React.Component {
                                      onChange={this.handleChange}
                                      placeholder="Enter brand"></input>
                          </div>
-                         <button type="text" onClick={this.handleClick} className="btn btn-primary btn-md btn-pad">Search Brand</button>
-                         <button type="text" onClick={this.handleClick} className="btn btn-primary btn-md btn-pad">Search Product</button>
+                         <button type="text" onClick={this.handleClickBrand} className="btn btn-primary btn-md btn-pad">Search Brand</button>
+                         <button type="text" onClick={this.handleClickProduct} className="btn btn-primary btn-md btn-pad">Search Product</button>
                      </form>
-                     <ProductList data={this.state.dataArray}></ProductList>
+                     <ProductList data={this.state.dataArray} brand={this.state.brand}></ProductList>
                 </div>
                 </div>
         )
@@ -131,6 +148,13 @@ export class Search extends React.Component {
 
 class ProductList extends React.Component {
     render() {
+        if (this.props.data.length === 0 && this.props.brand) {
+            return (
+                <div>
+                    <h4>No cruelty-free products from this brand :(</h4>
+                </div>
+            )
+        }
         console.log(this.props.data);
         let renderedProduct = this.props.data.map((item, index) => {
             return <ProductItem data={item} key={index}></ProductItem>
