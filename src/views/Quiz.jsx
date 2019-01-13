@@ -121,7 +121,7 @@ export class Quiz extends React.Component {
                     <h2>Test your knowledge on cruelty-free brands!</h2>
                     <Card style={{width: "22rem"}} className="card">
                         <img
-                            style={{height: "180px", width: "auto", display: "block"}}
+                            style={{height: "180px", display: "block", objectFit: "contain"}}
                             src={url}
                             alt="Makeup brand logo"
                         />
