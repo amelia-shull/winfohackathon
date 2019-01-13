@@ -95,7 +95,7 @@ export class Quiz extends React.Component {
         let buttons = <Button color="primary" onClick={() => this.next()}>Next</Button>;
         let isCrueltyFree = brands[this.state.round].crueltyFree ? " is cruelty-free!": " is not cruelty-free :("
         isCrueltyFree = brands[this.state.round].brand + isCrueltyFree;
-        let text = !this.state.answered ? "Is this brand cruelty free?" : this.state.correct ? "Correct. " + isCrueltyFree: "Incorrect. " + isCrueltyFree;
+        let text = !this.state.answered ? "Is this brand cruelty-free?" : this.state.correct ? "Correct. " + isCrueltyFree: "Incorrect. " + isCrueltyFree;
         if (!this.state.answered) {
             buttons = <div>
                 <Button color="success" onClick={() => this.yesClick()}>Yes</Button>
@@ -119,6 +119,7 @@ export class Quiz extends React.Component {
                 />
                 <div className="transparent-box">
                     <h2>Test your knowledge on cruelty-free brands!</h2>
+                    <p>You may be surprised. Many of your favorite brands could test on animals.</p>
                     <Card style={{width: "22rem"}} className="card">
                         <img
                             style={{height: "180px", display: "block", objectFit: "contain"}}
