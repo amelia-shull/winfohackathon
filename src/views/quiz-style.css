@@ -2,11 +2,17 @@
     margin-right: auto;
     margin-left: auto;
     text-align: center;
+    padding: .5rem;
 }
 
 body {
     background-image: url('../assets/img/background.jpg');
     background-position: fill;
+}
+
+
+.bunny-icon {
+    width: 100px;
 }
 
 .quiz {
