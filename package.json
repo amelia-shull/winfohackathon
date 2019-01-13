@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "private": true,
   "main": "dist/index.js",
-  "homepage": "http://amelia-shull.github.io/winfohackathon",
+  "homepage": "https://amelia-shull.github.io/winfohackathon",
   "dependencies": {
     "@material-ui/core": "3.1.1",
     "@material-ui/icons": "3.0.1",
