@@ -10,6 +10,11 @@ body {
     background-position: fill;
 }
 
+
+.bunny-icon {
+    width: 100px;
+}
+
 .quiz {
     padding: 5rem;
 }

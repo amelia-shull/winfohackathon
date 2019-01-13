@@ -30,18 +30,14 @@ class LandingPage extends React.Component {
     return (
       <div>
         <Header
-          color="transparent"
+          color="white"
           routes={dashboardRoutes}
           brand="Ethical Cosmetics"
           rightLinks={<HeaderLinks />}
           fixed
-          changeColorOnScroll={{
-            height: 150,
-            color: "white"
-          }}
           {...rest}
         />
-        <Parallax filter image={require("assets/img/makeup.jpeg")}>
+        <Parallax filter image={require("assets/img/brush.jpg")}>
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>

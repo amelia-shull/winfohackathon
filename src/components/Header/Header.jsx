@@ -75,7 +75,9 @@ class Header extends React.Component {
       [classes.absolute]: absolute,
       [classes.fixed]: fixed
     });
-    const brandComponent = <NavLink to="/" className={classes.title}>{brand}</NavLink>;
+    const brandComponent = <NavLink to="/" className={classes.title}>
+      <img className="bunny-icon" src={require('../../assets/img/bunny-01.png')}></img>
+    </NavLink>;
     return (
       <AppBar className={appBarClasses}>
         <Toolbar className={classes.container}>
