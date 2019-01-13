@@ -19,23 +19,79 @@ import "./Search.css";
 import "./quiz-style.css";
 import './bootstrap.css';
 
+// import DATA from './sample-brands.json'
+
 const dashboardRoutes = [];
+const DATA = [
+    {
+      "brand": "Becca",
+      "product_name": "Pure Color Protection Shampoo",
+      "product_type": "Shampoo & Conditioner",
+      "price": "$38.00",
+      "rating_stars": 3.2,
+      "rating_count": 6,
+      "image_url": "https://images.ulta.com/is/image/Ulta/2524826"
+    },
+    {
+      "brand": "Ardell",
+      "product_name": "Faux Mink Lash #811",
+      "product_type": "Eyes",
+      "price": "$6.49",
+      "rating_stars": 4,
+      "rating_count": 165,
+      "image_url": "https://images.ulta.com/is/image/Ulta/2504477"
+    },
+    {
+      "brand": "BH Cosmetics",
+      "product_name": "Studio Pro Total Coverage Concealer",
+      "product_type": "Face",
+      "price": "$6.00",
+      "rating_stars": 4.3,
+      "rating_count": 44,
+      "image_url": "https://images.ulta.com/is/image/Ulta/2524818"
+    },
+    {
+      "brand": "bareMinerals",
+      "product_name": "Concealer Broad Spectrum SPF 20",
+      "product_type": "Face",
+      "price": "$20.00",
+      "rating_stars": 4.7,
+      "rating_count": 1680,
+      "image_url": "https://images.ulta.com/is/image/Ulta/2093950"
+    },
+    {
+      "brand": "Becca",
+      "product_name": "Shimmering Skin Perfector Pressed Highlighter",
+      "product_type": "Face",
+      "price": "$38.00",
+      "rating_stars": 4.7,
+      "rating_count": 1053,
+      "image_url": "https://images.ulta.com/is/image/Ulta/2513933"
+    }
+  ]
 
 export class Search extends React.Component {
     constructor(props) {
         super(props);
-        this.state = {search: ''};
+        this.state = {
+            search: '',
+            dataArray: []
+        };
     }
 
     handleChange = (event) => {
-        console.log(this.state.search);
         this.setState({search: event.target.value});
     }
 
     handleClick = (event) => {
         event.preventDefault();
-        console.log(this.state.search);
-
+        let filteredData = DATA.filter((item) => {
+            // console.log(item.brand);
+            // console.log(item.brand.toLowerCase().includes(this.state.search));
+            return item.brand.toLowerCase().includes(this.state.search);
+        });
+        console.log(filteredData);
+        this.setState({dataArray: filteredData});
     }
 
     render() {
@@ -63,9 +119,10 @@ export class Search extends React.Component {
                                      onChange={this.handleChange}
                                      placeholder="Enter brand"></input>
                          </div>
-                         <button type="submit" onClick={this.handleClick} className="btn btn-primary btn-md">Search</button>
+                         <button type="text" onClick={this.handleClick} className="btn btn-primary btn-md btn-pad">Search Brand</button>
+                         <button type="text" onClick={this.handleClick} className="btn btn-primary btn-md btn-pad">Search Product</button>
                      </form>
-                     <ProductList></ProductList>
+                     <ProductList data={this.state.dataArray}></ProductList>
                 </div>
                 </div>
         )
@@ -74,23 +131,28 @@ export class Search extends React.Component {
 
 class ProductList extends React.Component {
     render() {
+        console.log(this.props.data);
+        let renderedProduct = this.props.data.map((item, index) => {
+            return <ProductItem data={item} key={index}></ProductItem>
+        })
         return (
         <div class="card-deck">
-            <ProductItem></ProductItem>
-            <ProductItem></ProductItem>
-            <ProductItem></ProductItem>
+            {renderedProduct}
         </div>);
     }
 }
 
 class ProductItem extends React.Component {
     render() {
+        let item = this.props.data;
+        console.log(item);
         return(
             <div class="card">
-                <img src="https://images.ulta.com/is/image/Ulta/2524826"
+                <img src={item.image_url}
                  className="card-img-top" alt="concealer"></img>
                 <div class="card-body">
-                <h5 class="card-title">Product Name</h5>                </div>
+                <h5 class="card-title">{item.brand}</h5>                
+                </div>
             </div>
         );
     }
