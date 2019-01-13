@@ -65,7 +65,7 @@ export class Search extends React.Component {
                          </div>
                          <button type="submit" onClick={this.handleClick} className="btn btn-primary btn-md">Search</button>
                      </form>
-                     <ProductItem></ProductItem>
+                     <ProductList></ProductList>
                 </div>
                 </div>
         )
@@ -76,6 +76,8 @@ class ProductList extends React.Component {
     render() {
         return (
         <div class="card-deck">
+            <ProductItem></ProductItem>
+            <ProductItem></ProductItem>
             <ProductItem></ProductItem>
         </div>);
     }
@@ -88,9 +90,7 @@ class ProductItem extends React.Component {
                 <img src="https://images.ulta.com/is/image/Ulta/2524826"
                  className="card-img-top" alt="concealer"></img>
                 <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
+                <h5 class="card-title">Product Name</h5>                </div>
             </div>
         );
     }
