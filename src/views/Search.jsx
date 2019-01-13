@@ -97,6 +97,14 @@ class ProductList extends React.Component {
                 </div>
             )
         }
+        if (this.props.data.length === 0 && this.props.brand !== undefined && this.props.brand === false) {
+            return (
+                <div>
+                    <h4>Did not find any cruelty-free products :(</h4>
+                </div>
+            )
+        }
+
         console.log(this.props.data);
         let renderedProduct = this.props.data.map((item, index) => {
             return <ProductItem data={item} key={index}></ProductItem>
