@@ -45,7 +45,7 @@ export class Search extends React.Component {
                     color="white"
                     routes={dashboardRoutes}
                     rightLinks={<HeaderLinks />}
-                    brand="Brand name here"
+                    brand="Ethical Cosmetics"
                     fixed
                     changeColorOnScroll={{
                         height: 400,
