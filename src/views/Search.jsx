@@ -18,66 +18,8 @@ import CustomInput from "components/CustomInput/CustomInput.jsx";
 import "./Search.css";
 import "./quiz-style.css";
 import './bootstrap.css';
-
-// import DATA from './sample-brands.json'
-
+import { DATA } from './brands-1.js';
 const dashboardRoutes = [];
-const DATA = [
-    {
-      "brand": "Becca",
-      "product_name": "Pure Color Protection Shampoo",
-      "product_type": "Shampoo & Conditioner",
-      "price": "$38.00",
-      "rating_stars": 3.2,
-      "rating_count": 6,
-      "image_url": "https://images.ulta.com/is/image/Ulta/2524826"
-    },
-    {
-        "brand": "Becca",
-        "product_name": "Pure Color Protection Shampoo v2",
-        "product_type": "Shampoo & Conditioner",
-        "price": "$38.00",
-        "rating_stars": 3.2,
-        "rating_count": 6,
-        "image_url": "https://images.ulta.com/is/image/Ulta/2524826"
-    },
-    {
-      "brand": "Ardell",
-      "product_name": "Faux Mink Lash #811",
-      "product_type": "Eyes",
-      "price": "$6.49",
-      "rating_stars": 4,
-      "rating_count": 165,
-      "image_url": "https://images.ulta.com/is/image/Ulta/2504477"
-    },
-    {
-      "brand": "BH Cosmetics",
-      "product_name": "Studio Pro Total Coverage Concealer",
-      "product_type": "Face",
-      "price": "$6.00",
-      "rating_stars": 4.3,
-      "rating_count": 44,
-      "image_url": "https://images.ulta.com/is/image/Ulta/2524818"
-    },
-    {
-      "brand": "bareMinerals",
-      "product_name": "Concealer Broad Spectrum SPF 20",
-      "product_type": "Face",
-      "price": "$20.00",
-      "rating_stars": 4.7,
-      "rating_count": 1680,
-      "image_url": "https://images.ulta.com/is/image/Ulta/2093950"
-    },
-    {
-      "brand": "Becca",
-      "product_name": "Shimmering Skin Perfector Pressed Highlighter",
-      "product_type": "Face",
-      "price": "$38.00",
-      "rating_stars": 4.7,
-      "rating_count": 1053,
-      "image_url": "https://images.ulta.com/is/image/Ulta/2513933"
-    }
-  ]
 
 export class Search extends React.Component {
     constructor(props) {
@@ -160,7 +102,7 @@ class ProductList extends React.Component {
             return <ProductItem data={item} key={index}></ProductItem>
         })
         return (
-        <div class="card-deck">
+        <div className="card-columns">
             {renderedProduct}
         </div>);
     }
@@ -171,11 +113,13 @@ class ProductItem extends React.Component {
         let item = this.props.data;
         console.log(item);
         return(
-            <div class="card">
+            <div className="card">
                 <img src={item.image_url}
-                 className="card-img-top" alt="concealer"></img>
-                <div class="card-body">
-                <h5 class="card-title">{item.brand}</h5>                
+                 className="card-img-top" alt={item.product_name}></img>
+                <div className="card-body">
+                <h5 className="card-title bold">{item.brand}</h5> 
+                <h5 className="card-title">{item.product_name}</h5> 
+                <h6 className="card-title">{"Price: " + item.price}</h6>                     
                 </div>
             </div>
         );
