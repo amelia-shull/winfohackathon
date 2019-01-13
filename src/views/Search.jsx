@@ -83,7 +83,7 @@ export class Search extends React.Component {
                      </form>
                      <ProductList data={this.state.dataArray} brand={this.state.brand}></ProductList>
                 </div>
-                </div>
+            </div>
         )
     }
 }

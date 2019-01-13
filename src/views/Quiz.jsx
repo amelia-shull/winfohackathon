@@ -4,6 +4,7 @@ import Header from "components/Header/Header.jsx";
 import HeaderLinks from "components/Header/HeaderLinks.jsx";
 import withStyles from "@material-ui/core/styles/withStyles";
 import Button from "components/CustomButtons/Button.jsx";
+import Footer from "components/Footer/Footer.jsx";
 
 import Card from "components/Card/Card.jsx";
 import CardBody from "components/Card/CardBody.jsx";
@@ -82,6 +83,7 @@ export class Quiz extends React.Component {
                         </CardBody>
                     </Card>
                 </div>
+                <Footer />
             </div>
             )
         }
@@ -144,6 +146,7 @@ export class Quiz extends React.Component {
                         vertical
                     />
                 </div>
+                <Footer />
             </div>
         )
     }
