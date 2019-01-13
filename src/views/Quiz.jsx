@@ -109,7 +109,7 @@ export class Quiz extends React.Component {
                     color="white"
                     routes={dashboardRoutes}
                     rightLinks={<HeaderLinks />}
-                    brand="Brand goes here"
+                    brand="Ethical Cosmetics"
                     fixed
                     changeColorOnScroll={{
                         height: 400,

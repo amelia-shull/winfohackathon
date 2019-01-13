@@ -32,22 +32,22 @@ class LandingPage extends React.Component {
         <Header
           color="transparent"
           routes={dashboardRoutes}
-          brand="Name goes here"
+          brand="Ethical Cosmetics"
           rightLinks={<HeaderLinks />}
           fixed
           changeColorOnScroll={{
-            height: 400,
+            height: 150,
             color: "white"
           }}
           {...rest}
         />
-        <Parallax filter image={require("assets/img/bunny.jpeg")}>
+        <Parallax filter image={require("assets/img/makeup.jpeg")}>
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
                 <h1 className={classes.title}>Buy cruelty-free today.</h1>
                 <h4>
-                  About the website :)
+                  Our website will help you ethically navigate the makeup world. 
                 </h4>
                 <br />
               </GridItem>

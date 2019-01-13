@@ -1,0 +1,485 @@
+brand,product_name,product_type,price,rating_stars,rating_count,image_url
+Abba,Pure Color Protection Shampoo,Shampoo & Conditioner,$38.00,3.2 ,6,https://images.ulta.com/is/image/Ulta/2524826
+Abba,Pure Gentle Conditioner,Shampoo & Conditioner,$40.00,4.4 ,7,https://images.ulta.com/is/image/Ulta/2522498
+Abba,Pure Gentle Shampoo,Shampoo & Conditioner,$38.00,5.0 ,2,https://images.ulta.com/is/image/Ulta/2524825
+Abba,Pure Color Protection Conditioner,Shampoo & Conditioner,$40.00,5.0 ,1,https://images.ulta.com/is/image/Ulta/2522488
+Abba,Pure Volume Shampoo,Shampoo & Conditioner,$38.00,3.3 ,4,https://images.ulta.com/is/image/Ulta/2522492
+Abba,Pure Moisture Shampoo,Shampoo & Conditioner,$18.95,4.0 ,3,https://images.ulta.com/is/image/Ulta/2522478
+Abba,Pure Volume Foam,Styling Products,$22.00,3.0 ,1,https://images.ulta.com/is/image/Ulta/2522499
+Abba,Pure Volume Conditioner,Shampoo & Conditioner,$40.00,5.0 ,1,https://images.ulta.com/is/image/Ulta/2522495
+AG Hair,Colour Care Colour Savour Sulfate-Free Shampoo,Shampoo & Conditioner,$58.00,4.3 ,387,https://images.ulta.com/is/image/Ulta/2290215
+AG Hair,Colour Care Colour Savour Colour Protection Conditioner,Shampoo & Conditioner,$58.00,4.5 ,227,https://images.ulta.com/is/image/Ulta/2290219
+AG Hair,Liter Pump,Shampoo & Conditioner,$3.00,3.7 ,2830,https://images.ulta.com/is/image/Ulta/2237618
+AG Hair,Moisture Fast Food Leave-On Conditioner,Shampoo & Conditioner,$58.00,4.6 ,318,https://images.ulta.com/is/image/Ulta/2290348
+AG Hair,Keratin Repair Restore Daily Strengthening Conditioner,Shampoo & Conditioner,$58.00,4.3 ,71,https://images.ulta.com/is/image/Ulta/2290240
+AG Hair,Smooth Smoooth Sulfate-Free Argan & Coconut Shampoo,Shampoo & Conditioner,$58.00,4.3 ,113,https://images.ulta.com/is/image/Ulta/2290346
+AG Hair,Keratin Repair Refuel Sulfate-Free Strengthening Shampoo,Shampoo & Conditioner,$58.00,4.5 ,77,https://images.ulta.com/is/image/Ulta/2290247
+AG Hair,Curl Re:Coil Curl Activator,Styling Products,$22.00,4.4 ,318,https://images.ulta.com/is/image/Ulta/2290225
+AG Hair,Sleeek Argan & Coconut Conditioner,Shampoo & Conditioner,$58.00,4.2 ,115,https://images.ulta.com/is/image/Ulta/2290237
+AG Hair,Colour Care Sterling Silver Toning Shampoo,Shampoo & Conditioner,$48.00,4.3 ,427,https://images.ulta.com/is/image/Ulta/2290217
+AG Hair,Colour Care Sterling Silver Toning Conditioner,Shampoo & Conditioner,$48.00,4.4 ,183,https://images.ulta.com/is/image/Ulta/2290221
+AG Hair,Keratin Repair Reconstruct Intense Anti-Breakage Mask,Treatment,$34.00,4.6 ,49,https://images.ulta.com/is/image/Ulta/2290297
+AG Hair,Smooth Firewall Argan Shine & Flat Iron Spray,Styling Products,$26.00,4.5 ,160,https://images.ulta.com/is/image/Ulta/2290234
+AG Hair,Natural Boost Apple Cider Vinegar Conditioner,Shampoo & Conditioner,$65.00,4.3 ,21,https://images.ulta.com/is/image/Ulta/2522571
+AG Hair,Natural Balance Apple Cider Vinegar Sulfate-Free Shampoo,Shampoo & Conditioner,$65.00,4.2 ,48,https://images.ulta.com/is/image/Ulta/2522572
+AG Hair,Tousled Texture,Styling Products,$26.00,4.5 ,59,https://images.ulta.com/is/image/Ulta/2501714
+AG Hair,Moisture Fast Food Sulfate-Free Shampoo,Shampoo & Conditioner,$58.00,4.4 ,84,https://images.ulta.com/is/image/Ulta/2290243
+AG Hair,Curl Thrive Hydrating Conditioner,Shampoo & Conditioner,$58.00,4.0 ,4,https://images.ulta.com/is/image/Ulta/2526343
+AG Hair,Volume Thikk Wash Volumizing Shampoo,Shampoo & Conditioner,$48.00,4.2 ,171,https://images.ulta.com/is/image/Ulta/2289478
+AG Hair,Curl Revive Sulfate-Free Hydrating Shampoo,Shampoo & Conditioner,$58.00,3.7 ,3,https://images.ulta.com/is/image/Ulta/2526345
+AG Hair,Travel Size Dry Wax,Styling Products,$9.95,3.9 ,69,https://images.ulta.com/is/image/Ulta/2300026
+AG Hair,Volume Thikk Rinse Volumizing Conditioner,Shampoo & Conditioner,$48.00,4.1 ,81,https://images.ulta.com/is/image/Ulta/2289475
+AG Hair,Moisture Ultramoist Moisturizing Conditioner,Shampoo & Conditioner,$48.00,3.7 ,142,https://images.ulta.com/is/image/Ulta/2290250
+AG Hair,Travel Size Smooth Firewall Argan Shine & Flat Iron Spray,Styling Products,$9.95,4.4 ,57,https://images.ulta.com/is/image/Ulta/2290233
+AG Hair,Keratin Repair Repair Serum Keratin Anti-Breakage Sealant,Treatment,$25.00,4.7 ,51,https://images.ulta.com/is/image/Ulta/2290238
+AG Hair,Volume Bigwigg Root Volumizer,Styling Products,$24.00,4.4 ,133,https://images.ulta.com/is/image/Ulta/2289481
+AG Hair,Moisture Conditioning Mist Detangling Spray,Treatment,$26.00,4.6 ,66,https://images.ulta.com/is/image/Ulta/2290239
+AG Hair,Cleansing Cream,Shampoo & Conditioner,$24.00,4.3 ,47,https://images.ulta.com/is/image/Ulta/2300023
+AG Hair,Brunette Dry Shampoo,Shampoo & Conditioner,$28.00,4.3 ,32,https://images.ulta.com/is/image/Ulta/2282629
+AG Hair,Curl Beach Bomb Tousled Texture,Styling Products,$24.00,4.2 ,90,https://images.ulta.com/is/image/Ulta/2290226
+AG Hair,Moisture Xtramoist Moisturizing Shampoo,Shampoo & Conditioner,$48.00,4.0 ,97,https://images.ulta.com/is/image/Ulta/2290248
+AG Hair,Smooth Frizzproof Argan Anti-Humidity Finishing Spray,Styling Products,$26.00,4.3 ,44,https://images.ulta.com/is/image/Ulta/2290235
+AG Hair,Colour Care Ultradynamics Extra-Firm Finishing Spray,Styling Products,$24.00,4.7 ,99,https://images.ulta.com/is/image/Ulta/2290213
+AG Hair,Remedy Spray,Styling Products,$26.00,4.6 ,20,https://images.ulta.com/is/image/Ulta/2509855
+AG Hair,Curl Curl Trigger Curl Defining Spray,Styling Products,$22.00,3.9 ,55,https://images.ulta.com/is/image/Ulta/2290223
+AG Hair,Therapy Tech Two Protein-Enriched Shampoo,Shampoo & Conditioner,$48.00,4.5 ,75,https://images.ulta.com/is/image/Ulta/2290242
+AG Hair,Colour Care Deflect Fast-Dry Heat Protection,Styling Products,$24.00,4.3 ,25,https://images.ulta.com/is/image/Ulta/2290214
+AG Hair,Natural Glow Shine Infuse Serum,Treatment,$28.00,5.0 ,5,https://images.ulta.com/is/image/Ulta/2533556
+AG Hair,The Oil Extra Virgin Argan Miracle Soothing Oil,Treatment,$20.00,4.4 ,242,https://images.ulta.com/is/image/Ulta/2237598
+AG Hair,Travel Size Colour Care Colour Savour Sulfate-Free Shampoo,Shampoo & Conditioner,$8.95,4.3 ,55,https://images.ulta.com/is/image/Ulta/2290436
+AG Hair,Colour Care BB Cream Total Benefit Hair Primer,Styling Products,$26.00,4.5 ,38,https://images.ulta.com/is/image/Ulta/2290245
+AG Hair,Dry Lift,Styling Products,$24.00,4.0 ,20,https://images.ulta.com/is/image/Ulta/2509852
+AG Hair,Natural Cloud Volumizing Mousse,Styling Products,$26.00,4.4 ,9,https://images.ulta.com/is/image/Ulta/2526344
+AG Hair,Tousled Texture To Go Kit,Hair Gifts,$29.95,4.1 ,8,https://images.ulta.com/is/image/Ulta/2504160
+AG Hair,Dry Wax,Styling Products,$28.00,4.3 ,37,https://images.ulta.com/is/image/Ulta/2300027
+AG Hair,Travel Size Colour Care Colour Savour Colour Protection Conditioner,Shampoo & Conditioner,$8.95,3.9 ,25,https://images.ulta.com/is/image/Ulta/2290435
+AG Hair,Sea Spray,Styling Products,$24.00,4.2 ,47,https://images.ulta.com/is/image/Ulta/2300024
+AG Hair,Therapy Conditioner Light Protein-Enriched Conditioner,Shampoo & Conditioner,$48.00,3.8 ,55,https://images.ulta.com/is/image/Ulta/2290352
+AG Hair,Volume Thikkening Lotion For Fine To Very Fine Hair,Styling Products,$24.00,4.1 ,32,https://images.ulta.com/is/image/Ulta/2289479
+AG Hair,Travel Size Colour Care Sterling Silver Toning Shampoo,Shampoo & Conditioner,$8.95,4.2 ,19,https://images.ulta.com/is/image/Ulta/2505909
+AG Hair,Natural Healthy Hair Starter Kit,Hair Gifts,$34.95,4.0 ,16,https://images.ulta.com/is/image/Ulta/2509850
+AG Hair,Volume Foam Weightless Volumizer,Styling Products,$22.00,4.2 ,89,https://images.ulta.com/is/image/Ulta/2289484
+AG Hair,Rosehip Balm,Styling Products,$28.00,4.4 ,13,https://images.ulta.com/is/image/Ulta/2509851
+AG Hair,Volume Spray Body Soft-Hold Volumizer,Styling Products,$22.00,4.2 ,25,https://images.ulta.com/is/image/Ulta/2289485
+AG Hair,Travel Size Colour Care Ultradynamics Extra-Firm Finishing Spray,Styling Products,$9.95,4.1 ,11,https://images.ulta.com/is/image/Ulta/2290212
+AG Hair,Texture Moisture Mask,Treatment,$40.00,3.7 ,10,https://images.ulta.com/is/image/Ulta/2306787
+AG Hair,Travel Size Colour Care Sterling Silver Toning Conditioner,Shampoo & Conditioner,$8.95,4.1 ,11,https://images.ulta.com/is/image/Ulta/2505910
+AG Hair,Smooth Set It Straight Argan Straightening Lotion,Styling Products,$20.00,3.9 ,59,https://images.ulta.com/is/image/Ulta/2290236
+AG Hair,Simply Dry Shampoo,Shampoo & Conditioner,$28.00,3.0 ,41,https://images.ulta.com/is/image/Ulta/2282626
+AG Hair,Colour Care Aerodynamics Lightweight Finishing Spray,Styling Products,$24.00,4.1 ,27,https://images.ulta.com/is/image/Ulta/2290210
+AG Hair,Jet Black Dry Shampoo,Shampoo & Conditioner,$28.00,4.3 ,4,https://images.ulta.com/is/image/Ulta/2306786
+AG Hair,Infrastructure Structurizing Pomade 3,Styling Products,$22.00,3.6 ,14,https://images.ulta.com/is/image/Ulta/2277045
+AG Hair,Colour To Go Kit,Hair Gifts,$29.95,4.6 ,5,https://images.ulta.com/is/image/Ulta/2501712
+AG Hair,Texture Gloss,Styling Products,$24.00,3.8 ,17,https://images.ulta.com/is/image/Ulta/2300025
+AG Hair,Light Brown Dry Shampoo,Shampoo & Conditioner,$28.00,4.1 ,10,https://images.ulta.com/is/image/Ulta/2282628
+AG Hair,Travel Size Tousled Texture,Styling Products,$5.00,3.0 ,1,https://images.ulta.com/is/image/Ulta/2538507
+AG Hair,Molding Cream,Styling Products,$22.00,4.1 ,10,https://images.ulta.com/is/image/Ulta/2290361
+AG Hair,Travel Size Brunette Dry Shampoo,Travel Size,$10.95,3.9 ,26,https://images.ulta.com/is/image/Ulta/2287205
+AG Hair,Travel Size Simply Dry Shampoo,Travel Size,$10.95,3.5 ,22,https://images.ulta.com/is/image/Ulta/2282625
+AG Hair,Texture Paste,Styling Products,$22.00,3.5 ,15,https://images.ulta.com/is/image/Ulta/2290360
+AG Hair,Blonde Dry Shampoo,Shampoo & Conditioner,$28.00,2.5 ,19,https://images.ulta.com/is/image/Ulta/2282627
+AG Hair,Travel Size Light Brown Dry Shampoo,Travel Size,$10.95,3.7 ,10,https://images.ulta.com/is/image/Ulta/2287204
+AG Hair,Travel Size Blonde Dry Shampoo,Travel Size,$10.95,3.2 ,13,https://images.ulta.com/is/image/Ulta/2287203
+AG Hair,Travel Size Jet Black Dry Shampoo,Shampoo & Conditioner,$10.95,3.0 ,5,https://images.ulta.com/is/image/Ulta/2306785
+AG Hair,All The Moisture Duo,Gifts & Value Sets,$26.80,0.0 ,0,https://images.ulta.com/is/image/Ulta/2525860
+AG Hair,Curl Liquid Effects Extra-Firm Styling Lotion,Styling Products,$18.00,4.4 ,21,https://images.ulta.com/is/image/Ulta/2290228
+Anastasia Beverly Hills,Sun Dipped Glow Kit,Gifts & Value Sets,$40.00,4.8 ,1145,https://images.ulta.com/is/image/Ulta/2301450
+Anastasia Beverly Hills,Modern Renaissance Eyeshadow Palette,Eyes,$42.00,4.8 ,3724,https://images.ulta.com/is/image/Ulta/2304425
+Anastasia Beverly Hills,Online Only FREE 2 Pc Gift w/any $35 Anastasia Beverly Hills purchase,Gifts with Purchase,,4.1 ,7,https://images.ulta.com/is/image/Ulta/2542677
+Anastasia Beverly Hills,Sugar Glow Kit,Makeup Gifts,$40.00,4.7 ,303,https://images.ulta.com/is/image/Ulta/2517531
+Anastasia Beverly Hills,Brow Wiz,Eyes,$21.00,4.6 ,6790,https://images.ulta.com/is/image/Ulta/2162562
+Anastasia Beverly Hills,Sultry Eyeshadow Palette,Makeup Gifts,$45.00,4.7 ,268,https://images.ulta.com/is/image/Ulta/2534733
+Anastasia Beverly Hills,Dipbrow Pomade,Eyes,$18.00,4.7 ,5373,https://images.ulta.com/is/image/Ulta/2268180
+Anastasia Beverly Hills,Amrezy Highlighter,Face,$28.00,4.7 ,386,https://images.ulta.com/is/image/Ulta/2523798
+Anastasia Beverly Hills,Dream Glow Kit,Face,$45.00,4.0 ,113,https://images.ulta.com/is/image/Ulta/2529285
+Anastasia Beverly Hills,Soft Glam Eyeshadow Palette,Eyes,$42.00,4.7 ,464,https://images.ulta.com/is/image/Ulta/2524400
+Anastasia Beverly Hills,Brow Definer,Eyes,$23.00,4.5 ,2467,https://images.ulta.com/is/image/Ulta/2297657
+Anastasia Beverly Hills,Norvina Eyeshadow Palette,Makeup Gifts,$42.00,4.2 ,532,https://images.ulta.com/is/image/Ulta/2532714
+Anastasia Beverly Hills,Lip Palette,Lips,$48.00,4.7 ,172,https://images.ulta.com/is/image/Ulta/2507299
+Anastasia Beverly Hills,Moonchild Glow Kit,Makeup Gifts,$40.00,4.6 ,146,https://images.ulta.com/is/image/Ulta/2514569
+Anastasia Beverly Hills,Liquid Lipstick,Lips,$20.00,4.2 ,1808,https://images.ulta.com/is/image/Ulta/2300420
+Anastasia Beverly Hills,Brow Powder Duo,Eyes,$23.00,4.7 ,1601,https://images.ulta.com/is/image/Ulta/2143897
+Anastasia Beverly Hills,Clear Brow Gel,Eyes,$22.00,4.6 ,752,https://images.ulta.com/is/image/Ulta/2143893
+Anastasia Beverly Hills,Brush 12 Dual-Ended Firm Angled Brush,Makeup Brushes & Tools,$18.00,4.7 ,689,https://images.ulta.com/is/image/Ulta/2268184
+Anastasia Beverly Hills,Contour Powder Kit,Face,$40.00,4.4 ,944,https://images.ulta.com/is/image/Ulta/2282772
+Anastasia Beverly Hills,Lip Gloss,Lips,$16.00,4.5 ,618,https://images.ulta.com/is/image/Ulta/2532706
+Anastasia Beverly Hills,Online Only Mini Matte Lipstick 4 Pc Set (Nudes),Makeup Gifts,$21.00,3.8 ,43,https://images.ulta.com/is/image/Ulta/2523790
+Anastasia Beverly Hills,Matte Lipstick,Lips,$18.00,4.4 ,252,https://images.ulta.com/is/image/Ulta/2514542
+Anastasia Beverly Hills,Tinted Brow Gel,Eyes,$22.00,4.3 ,1170,https://images.ulta.com/is/image/Ulta/2157031
+Anastasia Beverly Hills,Liquid Glow,Face,$25.00,4.0 ,30,https://images.ulta.com/is/image/Ulta/2510399
+Anastasia Beverly Hills,Perfect Brow Pencil,Eyes,$23.00,4.5 ,953,https://images.ulta.com/is/image/Ulta/2157033
+Anastasia Beverly Hills,Brush 7B Dual-Ended Angled Brush,Makeup Brushes & Tools,$18.00,4.8 ,315,https://images.ulta.com/is/image/Ulta/2143864
+Anastasia Beverly Hills,Mini Lip Gloss Set,Lips,$25.00,4.2 ,23,https://images.ulta.com/is/image/Ulta/2535691
+Anastasia Beverly Hills,Eyeshadow Single,Eyes,$12.00,4.6 ,277,https://images.ulta.com/is/image/Ulta/2300368
+Anastasia Beverly Hills,Mini Metallic Liquid Lipstick Set,Makeup Gifts,$25.00,4.2 ,49,https://images.ulta.com/is/image/Ulta/2534737
+Anastasia Beverly Hills,Powder Bronzer,Face,$28.00,4.7 ,55,https://images.ulta.com/is/image/Ulta/2523791
+Anastasia Beverly Hills,Stick Foundation,Face,$25.00,3.7 ,766,https://images.ulta.com/is/image/Ulta/2308343
+Anastasia Beverly Hills,Precision Tweezers,Makeup Brushes & Tools,$28.00,4.6 ,88,https://images.ulta.com/is/image/Ulta/2143878
+Anastasia Beverly Hills,Contour Cream Kit,Face,$40.00,4.2 ,574,https://images.ulta.com/is/image/Ulta/2295909
+Anastasia Beverly Hills,Brush A23 Large Tapered Blending Brush,Makeup Brushes & Tools,$25.00,4.6 ,10,https://images.ulta.com/is/image/Ulta/2524587
+Anastasia Beverly Hills,Pro Pencil,Face,$18.00,4.5 ,85,https://images.ulta.com/is/image/Ulta/2273167
+Anastasia Beverly Hills,Brush #14 Dual-Ended Firm Detail,Makeup Brushes & Tools,$18.00,3.7 ,10,https://images.ulta.com/is/image/Ulta/2524588
+Anastasia Beverly Hills,Blush Trios,Face,$30.00,4.4 ,105,https://images.ulta.com/is/image/Ulta/2510400
+Anastasia Beverly Hills,Lip Primer,Lips,$16.00,3.9 ,64,https://images.ulta.com/is/image/Ulta/2301447
+Anastasia Beverly Hills,Stencils,Makeup Brushes & Tools,$20.00,3.5 ,132,https://images.ulta.com/is/image/Ulta/2143876
+Anastasia Beverly Hills,Hydrating Oil,Moisturizers,$45.00,4.6 ,10,https://images.ulta.com/is/image/Ulta/2532712
+Anastasia Beverly Hills,Loose Glitter,Eyes,$15.00,5.0 ,8,https://images.ulta.com/is/image/Ulta/2535689
+Anastasia Beverly Hills,Sharpener,Makeup Brushes & Tools,$6.00,4.5 ,74,https://images.ulta.com/is/image/Ulta/2159279
+Anastasia Beverly Hills,Brow Primer,Eyes,$21.00,4.4 ,77,https://images.ulta.com/is/image/Ulta/2143889
+Anastasia Beverly Hills,Scissors,Makeup Brushes & Tools,$22.50,4.8 ,25,https://images.ulta.com/is/image/Ulta/2210666
+Anastasia Beverly Hills,Highlighting Duo Pencil,Eyes,$23.00,4.6 ,135,https://images.ulta.com/is/image/Ulta/2209607
+Anastasia Beverly Hills,Waterproof Crème Color,Eyes,$18.00,4.0 ,104,https://images.ulta.com/is/image/Ulta/2286834
+Anastasia Beverly Hills,Brush 20 Dual-Ended Flat Detail Brush,Makeup Brushes & Tools,$18.00,4.3 ,19,https://images.ulta.com/is/image/Ulta/2273172
+Anastasia Beverly Hills,Aurora Glow Kit,Makeup Gifts,$40.00,4.6 ,329,https://images.ulta.com/is/image/Ulta/2510414
+Anastasia Beverly Hills,Darkside Waterproof Eyeliner,Eyes,$18.00,3.9 ,36,https://images.ulta.com/is/image/Ulta/2304426
+Andalou Naturals,Online Only Pumpkin Honey Glycolic Mask,Treatment & Serums,$14.99,4.3 ,214,https://images.ulta.com/is/image/Ulta/2299595
+Andalou Naturals,Turmeric Enlight Serum,Treatment & Serums,$24.99,4.4 ,62,https://images.ulta.com/is/image/Ulta/2298574
+Andalou Naturals,Probiotic + C Renewal Cream,Moisturizers,$24.99,4.4 ,27,https://images.ulta.com/is/image/Ulta/2298570
+Andalou Naturals,Online Only Get Started Brightening Kit,Natural Skin Care,$19.99,4.6 ,11,https://images.ulta.com/is/image/Ulta/2501820
+Andalou Naturals,Online Only Get Started Age Defying Kit,Gifts & Value Sets,$19.99,4.5 ,10,https://images.ulta.com/is/image/Ulta/2505249
+Andalou Naturals,Q10 Night Repair Cream,Moisturizers,$24.99,4.5 ,27,https://images.ulta.com/is/image/Ulta/2298568
+Andalou Naturals,Dmae Lift & Firm Cream,Moisturizers,$24.99,4.5 ,24,https://images.ulta.com/is/image/Ulta/2298569
+Andalou Naturals,Online Only Quenching Coconut Water Eye Lift Cream,Eye Treatments,$19.99,4.7 ,3,https://images.ulta.com/is/image/Ulta/2536529
+Andalou Naturals,Online Only Quenching Coconut Milk Firming Toner,Cleansers,$12.99,4.4 ,5,https://images.ulta.com/is/image/Ulta/2536525
+Andalou Naturals,Online Only Clementie + C Illuminating Toner,Cleansers,$13.99,4.4 ,28,https://images.ulta.com/is/image/Ulta/2505250
+Andalou Naturals,Ultra Sheer Daily Defense Facial Lotion,Moisturizers,$14.99,4.3 ,29,https://images.ulta.com/is/image/Ulta/2299569
+Andalou Naturals,Luminous Eye Serum,Eye Treatments,$19.99,3.9 ,36,https://images.ulta.com/is/image/Ulta/2298575
+Andalou Naturals,Online Only Berry Bio-Active Enzyme Mask,Treatment & Serums,$14.99,4.3 ,7,https://images.ulta.com/is/image/Ulta/2501823
+Andalou Naturals,Online Only Quenching Coconut Water Firming Cleanser,Cleansers,$13.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2536524
+Andalou Naturals,Instant Lift & Firm Hydro Serum Facial Mask,Treatment & Serums,$4.99,3.9 ,13,https://images.ulta.com/is/image/Ulta/2502310
+Andalou Naturals,Online Only Quenching Coconut Milk Youth Firm Night Cream,Moisturizers,$24.99,4.5 ,2,https://images.ulta.com/is/image/Ulta/2536530
+Andalou Naturals,Online Only Quenching Coconut Milk Firming Serum,Treatment & Serums,$24.99,4.0 ,4,https://images.ulta.com/is/image/Ulta/2536527
+Andalou Naturals,Online Only Quenching Coconut Water Visibly Firm Day Cream,Moisturizers,$24.99,5.0 ,1,https://images.ulta.com/is/image/Ulta/2536526
+Andalou Naturals,Online Only Instant Hydration Facial Sheet Mask,Treatment & Serums,$4.99,5.0 ,1,https://images.ulta.com/is/image/Ulta/2514714
+Andalou Naturals,Online Only Instant Brighten & Tighten Hydro Serum Facial Mask,Treatment & Serums,$4.99,2.6 ,20,https://images.ulta.com/is/image/Ulta/2502311
+Andalou Naturals,Online Only Quenching Coconut Milk Firming Mask,Treatment & Serums,$14.99,5.0 ,1,https://images.ulta.com/is/image/Ulta/2536528
+Andalou Naturals,Online Only Instant Pure Pore Facial Sheet Mask,Treatment & Serums,$4.99,3.3 ,7,https://images.ulta.com/is/image/Ulta/2514716
+Andalou Naturals,Online Only Age Defying Micellar Facial Swipes,Cleansers,$6.99,2.4 ,5,https://images.ulta.com/is/image/Ulta/2514715
+Andalou Naturals,Online Only Sensitive Micellar Facial Swipes,Cleansers,$6.99,2.7 ,7,https://images.ulta.com/is/image/Ulta/2514712
+Andalou Naturals,Online Only Blossom + Leaf Refresh Toning,Cleansers,$13.99,4.2 ,9,https://images.ulta.com/is/image/Ulta/2503557
+Ardell,Lash Demi Wispies 5 Pair Multipack,Eyes,$11.99,4.6 ,248,https://images.ulta.com/is/image/Ulta/2287443
+Ardell,Lash Wispies Multipack,Eyes,$11.99,4.6 ,37,https://images.ulta.com/is/image/Ulta/2525725
+Ardell,Magnetic Lash Accent #001,Eyes,$13.99,3.8 ,127,https://images.ulta.com/is/image/Ulta/2525719
+Ardell,Natural Multipack 110,Eyes,$11.99,4.8 ,177,https://images.ulta.com/is/image/Ulta/2287444
+Ardell,Duo Lash Adhesive Clear,Eyes,$6.49,4.3 ,538,https://images.ulta.com/is/image/Ulta/2063231
+Ardell,Duo Brush-On Adhesive With Vitamins,Eyes,$6.49,4.2 ,318,https://images.ulta.com/is/image/Ulta/2259800
+Ardell,Lash Natural #105 5 Pair Multipack,Eyes,$11.99,4.7 ,202,https://images.ulta.com/is/image/Ulta/2287445
+Ardell,Magnetic Lash #110,Eyes,$13.99,2.7 ,95,https://images.ulta.com/is/image/Ulta/2525717
+Ardell,Duo Lash Adhesive Dark,Eyes,$6.49,4.3 ,538,https://images.ulta.com/is/image/Ulta/2259801
+Ardell,Online Only Forever Kissable Lip Stain,Lips,$9.99,4.2 ,29,https://images.ulta.com/is/image/Ulta/2528781
+Ardell,Lash Dual Lash Applicator,Eyes,$4.99,4.6 ,8,https://images.ulta.com/is/image/Ulta/2525712
+Ardell,Online Only Stroke A Brow Feathering Pen,Eyes,$9.99,3.6 ,28,https://images.ulta.com/is/image/Ulta/2528772
+Ardell,Lash Twin Pack #113,Eyes,$5.99,4.4 ,12,https://images.ulta.com/is/image/Ulta/2525710
+Ardell,Lash Studio Effects Wispies Twin Pack,Eyes,$8.99,4.5 ,17,https://images.ulta.com/is/image/Ulta/2526516
+Ardell,Lash Studio Effects Demi Wispies Twin Pack,Eyes,$8.99,5.0 ,6,https://images.ulta.com/is/image/Ulta/2526512
+Ardell,Duo Brush-On Dark Adhesive with Vitamins,Eyes,$6.49,4.0 ,232,https://images.ulta.com/is/image/Ulta/2299739
+Ardell,Double Up Wispies,Eyes,$5.99,4.8 ,126,https://images.ulta.com/is/image/Ulta/2299738
+Ardell,Lash Natural 174,Eyes,$4.99,4.8 ,20,https://images.ulta.com/is/image/Ulta/2526514
+Ardell,Lash Faux Mink Multi #811,Eyes,$17.49,2.8 ,39,https://images.ulta.com/is/image/Ulta/2525727
+Ardell,Lash Faux Mink Demi Wispies Twin Pack,Eyes,$10.49,3.5 ,32,https://images.ulta.com/is/image/Ulta/2526517
+Ardell,Lash Glamour Variety Pack,Eyes,$11.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2526515
+Ardell,Mini Wispies Lash Lookbook + Duo,Makeup Gifts,$11.99,4.8 ,18,https://images.ulta.com/is/image/Ulta/2518524
+Ardell,Mega Volume Lash #250,Eyes,$5.99,4.8 ,64,https://images.ulta.com/is/image/Ulta/2504473
+Ardell,Lash 6 Pack Demi Wispies,Eyes,$13.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2525726
+Ardell,Lash Mega Volume #252,Eyes,$5.99,4.8 ,20,https://images.ulta.com/is/image/Ulta/2525715
+Ardell,Magnetic Lash Applicator,Eyes,$2.49,2.1 ,21,https://images.ulta.com/is/image/Ulta/2536212
+Ardell,Twin Pack Lash 120,Eyes,$6.99,4.7 ,335,https://images.ulta.com/is/image/Ulta/2251244
+Ardell,Lash Natural Variety Pack,Eyes,$11.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2525711
+Ardell,Lash Twin Pack Wispies,Eyes,$5.99,4.4 ,7,https://images.ulta.com/is/image/Ulta/2526513
+Ardell,Faux Mink Lash #811,Eyes,$6.49,4.0 ,165,https://images.ulta.com/is/image/Ulta/2504477
+Ardell,Studio Effects Wispies,Eyes,$5.99,4.8 ,193,https://images.ulta.com/is/image/Ulta/2299731
+Ardell,Lash Studio Effects #231,Eyes,$5.99,4.6 ,5,https://images.ulta.com/is/image/Ulta/2525714
+Ardell,Lash Faux Mink Wispies,Eyes,$6.49,3.5 ,46,https://images.ulta.com/is/image/Ulta/2525724
+Ardell,Double Up Individuals,Eyes,$5.99,4.4 ,36,https://images.ulta.com/is/image/Ulta/2505694
+Ardell,Cluster Wispies Demi Wispies,Eyes,$4.99,4.6 ,210,https://images.ulta.com/is/image/Ulta/2299737
+Ardell,Individuals Medium Black Lashes,Eyes,$4.99,4.2 ,69,https://images.ulta.com/is/image/Ulta/2285779
+Ardell,Cluster Wispies #600,Eyes,$4.99,4.4 ,145,https://images.ulta.com/is/image/Ulta/2299734
+Ardell,Double Up Demi Wispies,Eyes,$5.99,4.4 ,55,https://images.ulta.com/is/image/Ulta/2505692
+Ardell,Lash Wispies Black,Eyes,$4.99,4.7 ,331,https://images.ulta.com/is/image/Ulta/2280441
+Ardell,Touch Of Color,Hair Color,$5.99,2.9 ,293,https://images.ulta.com/is/image/Ulta/2286190
+Ardell,Trios Lash,Eyes,$4.99,4.6 ,54,https://images.ulta.com/is/image/Ulta/2505691
+Ardell,Double Up Lash #207,Eyes,$5.99,4.8 ,9,https://images.ulta.com/is/image/Ulta/2305612
+Ardell,Natural Short Black,Eyes,$4.99,4.4 ,40,https://images.ulta.com/is/image/Ulta/2505690
+Ardell,Lash Accents 315,Eyes,$4.99,4.2 ,52,https://images.ulta.com/is/image/Ulta/2259803
+Ardell,Glamour Lashes 113 Black,Eyes,$4.99,4.8 ,226,https://images.ulta.com/is/image/Ulta/2285781
+Ardell,Lash Faux Mink #817,Eyes,$6.49,4.1 ,21,https://images.ulta.com/is/image/Ulta/2525709
+Ardell,Twin Pack Lash 110,Eyes,$6.99,4.6 ,121,https://images.ulta.com/is/image/Ulta/2251242
+Ardell,Studio Effects Demi Wispies,Eyes,$5.99,4.7 ,161,https://images.ulta.com/is/image/Ulta/2299730
+Ardell,Online Only Matte Whipped Lipstick,Lips,$9.99,5.0 ,6,https://images.ulta.com/is/image/Ulta/2528802
+Ardell,Lash 6 Pack #110,Eyes,$16.49,5.0 ,2,https://images.ulta.com/is/image/Ulta/2525713
+Ardell,Natural Lash - Black 120,Eyes,$4.99,4.7 ,318,https://images.ulta.com/is/image/Ulta/1031088
+Ardell,Faux Mink Lash #812,Eyes,$6.49,4.3 ,147,https://images.ulta.com/is/image/Ulta/2504478
+Ardell,Twin Pack Lash 105,Eyes,$6.99,4.6 ,127,https://images.ulta.com/is/image/Ulta/2251241
+Ardell,Double Up Black Lashes #204,Eyes,$5.99,4.4 ,92,https://images.ulta.com/is/image/Ulta/2280443
+Ardell,Glamour Lash - Black 105,Eyes,$4.99,4.5 ,103,https://images.ulta.com/is/image/Ulta/1031082
+Ardell,Mega Volume Lash #251,Eyes,$5.99,4.3 ,59,https://images.ulta.com/is/image/Ulta/2504475
+Ardell,Lash Wispies #122,Eyes,$4.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2525718
+Ardell,Soft Touch Lash #162,Eyes,$4.99,4.7 ,47,https://images.ulta.com/is/image/Ulta/2299727
+Ardell,Lash Studio Effects #230,Eyes,$5.99,4.3 ,9,https://images.ulta.com/is/image/Ulta/2525722
+Ardell,Natural Lash - Black 110,Eyes,$4.99,4.3 ,270,https://images.ulta.com/is/image/Ulta/1031078
+Ardell,Soft Touch Lash #161,Eyes,$4.99,4.5 ,64,https://images.ulta.com/is/image/Ulta/2299726
+Ardell,Mini Faves Lash Lookbook + Duo,Makeup Gifts,$11.99,4.7 ,3,https://images.ulta.com/is/image/Ulta/2518525
+Ardell,Lash Faux Mink Demi Wispies,Eyes,$6.49,4.1 ,16,https://images.ulta.com/is/image/Ulta/2525721
+Ardell,Studio Effects Lash #110,Eyes,$5.99,4.7 ,67,https://images.ulta.com/is/image/Ulta/2299733
+Ardell,Lash Soft Touch Trios,Eyes,$4.99,4.0 ,4,https://images.ulta.com/is/image/Ulta/2525716
+Ardell,Soft Touch Lash #160,Eyes,$4.99,4.5 ,50,https://images.ulta.com/is/image/Ulta/2299725
+Ardell,Cluster Wispies #602,Eyes,$4.99,4.4 ,52,https://images.ulta.com/is/image/Ulta/2299735
+Ardell,Online Only Sensual Eyes Eyeshadow Palette,Eyes,$12.99,5.0 ,1,https://images.ulta.com/is/image/Ulta/2528805
+Ardell,Duralash Lash Mini Individuals,Eyes,$4.99,5.0 ,2,https://images.ulta.com/is/image/Ulta/2525708
+Ardell,Online Only Double Up Volumizing Mascara,Eyes,$12.99,4.3 ,3,https://images.ulta.com/is/image/Ulta/2528808
+Ardell,Clear Lash Grip Strip Adhesive,Eyes,$2.49,3.8 ,160,https://images.ulta.com/is/image/Ulta/1031050
+Ardell,Duo Individual Lash Adhesive Clear,Eyes,$6.49,2.1 ,26,https://images.ulta.com/is/image/Ulta/2525988
+Ardell,Online Only Pro Eyeshadow Palette,Eyes,$14.99,2.3 ,6,https://images.ulta.com/is/image/Ulta/2528813
+Ardell,Online Only  Wanna Get Lucky Gel Eyeliner,Eyes,$8.99,3.5 ,2,https://images.ulta.com/is/image/Ulta/2528810
+Ardell,Glamour Lash - Black 117,Eyes,$4.99,4.6 ,43,https://images.ulta.com/is/image/Ulta/1031089
+Ardell,Online Only Wispies Fiber Building Mascara,Eyes,$14.99,3.3 ,16,https://images.ulta.com/is/image/Ulta/2528789
+Ardell,Studio Effects Lash #105,Eyes,$5.99,4.4 ,40,https://images.ulta.com/is/image/Ulta/2299732
+Ardell,Online Only Fame Chaser Liquid Eyeliner,Eyes,$9.99,0.0 ,0,https://images.ulta.com/is/image/Ulta/2528776
+Ardell,Online Only No-Slip Liquid Lip Liner,Lips,$9.99,3.0 ,2,https://images.ulta.com/is/image/Ulta/2528792
+Ardell,Natural Lash - Black 109,Eyes,$4.99,4.4 ,143,https://images.ulta.com/is/image/Ulta/1031079
+Ardell,Online Only In Her Prime Eye Primer,Eyes,$9.99,0.0 ,0,https://images.ulta.com/is/image/Ulta/2528806
+Ardell,Online Only Splash Party Waterproof Mascara,Eyes,$12.99,0.0 ,0,https://images.ulta.com/is/image/Ulta/2528795
+Ardell,Online Only Top & Bottom Precision Mascara,Eyes,$14.99,0.0 ,0,https://images.ulta.com/is/image/Ulta/2528815
+Ardell,Online Only Lash Boostier Liquid Eyeliner,Eyes,$13.99,1.0 ,1,https://images.ulta.com/is/image/Ulta/2528769
+Babo Botanicals,Online Only Swim & Sport Shampoo & Wash,Bath & Shower,$39.95,4.9 ,15,https://images.ulta.com/is/image/Ulta/2509873
+Babo Botanicals,Online Only Sheer Lip Tint Conditioner SPF 15 Mineral Sunscreen Lip Balm,Suncare,$9.95,4.1 ,60,https://images.ulta.com/is/image/Ulta/2539143
+Babo Botanicals,Online Only Moisturizing Baby Shampoo & Wash,Kid's Haircare,$39.95,4.5 ,16,https://images.ulta.com/is/image/Ulta/2509874
+Babo Botanicals,Online Only Smoothing Detangling Spray,Kid's Haircare,$14.00,4.3 ,51,https://images.ulta.com/is/image/Ulta/2216138
+Babo Botanicals,Online Only Sensitive Baby Fragrance Free Shampoo & Wash For Sensitive & Eczema-Prone Skin,Natural Skin Care,$19.95,4.7 ,23,https://images.ulta.com/is/image/Ulta/2531776
+Babo Botanicals,Online Only Lice Repel Shampoo,Kid's Haircare,$22.50,5.0 ,5,https://images.ulta.com/is/image/Ulta/2509877
+Babo Botanicals,Online Only Daily Sheer Non-Nano Zinc SPF 40 Fragrance Free Mineral Sunscreen,Suncare,$14.95,4.5 ,19,https://images.ulta.com/is/image/Ulta/2509289
+Babo Botanicals,Online Only Smoothing Conditioner,Shampoo & Conditioner,$39.95,5.0 ,1,https://images.ulta.com/is/image/Ulta/2509876
+Babo Botanicals,"Online Only Calming Bubble Bath, Shampoo & Wash",Kid's Haircare,$15.95,4.7 ,15,https://images.ulta.com/is/image/Ulta/2228207
+Babo Botanicals,Online Only Moisturizing Conditioner,Shampoo & Conditioner,$39.95,0.0 ,0,https://images.ulta.com/is/image/Ulta/2509878
+Babo Botanicals,Online Only Smoothing Shampoo & Wash,Kid's Haircare,$39.95,3.8 ,13,https://images.ulta.com/is/image/Ulta/2509872
+Babo Botanicals,Online Only Swim & Sport Conditioner,Shampoo & Conditioner,$39.95,0.0 ,0,https://images.ulta.com/is/image/Ulta/2509875
+Babo Botanicals,Online Only Daily Sheer Tinted Mineral Sunscreen SPF 30 Fragrance Free for Sensitive Skin,Suncare,$14.95,4.3 ,32,https://images.ulta.com/is/image/Ulta/2531638
+Babo Botanicals,Online Only Lice Repel Conditioning Spray,Kid's Haircare,$16.00,3.2 ,5,https://images.ulta.com/is/image/Ulta/2215687
+Babo Botanicals,Online Only Moisturizing Baby Lotion,Body Moisturizers,$14.95,4.3 ,16,https://images.ulta.com/is/image/Ulta/2215691
+Babo Botanicals,Online Only Oatmilk Calendula Moisturizing Bubble Bath and Wash,Bath & Shower,$15.95,4.7 ,15,https://images.ulta.com/is/image/Ulta/2246890
+Babo Botanicals,Online Only Calming Lavender Baby Shampoo & Wash For Sensitive Skin,Natural Skin Care,$19.95,0.0 ,0,https://images.ulta.com/is/image/Ulta/2531779
+Babo Botanicals,Online Only Sensitive Baby Fragrance Free Daily Hydra Lotion For Sensitive & Eczema Prone Skin,Natural Skin Care,$12.95,5.0 ,1,https://images.ulta.com/is/image/Ulta/2531777
+Babo Botanicals,Online Only Swim & Sport Detangling Spray,Kid's Haircare,$14.00,4.3 ,51,https://images.ulta.com/is/image/Ulta/2215686
+Babo Botanicals,Online Only Nutri-Soothe Lip Treatment SPF 15 Mineral Sunscreen Lip Balm,Suncare,$6.49,4.3 ,8,https://images.ulta.com/is/image/Ulta/2509287
+Babo Botanicals,Online Only Sheer Non-Nano Zinc Continuous Spray SPF 30 Fragrance Free Mineral Sunscreen,Suncare,$18.95,4.7 ,82,https://images.ulta.com/is/image/Ulta/2509291
+Babo Botanicals,Online Only Calming Baby Lotion,Body Moisturizers,$14.95,4.3 ,16,https://images.ulta.com/is/image/Ulta/2228208
+Babo Botanicals,Online Only Super Shield Non-Nano Zinc SPF 50 Fragrance Free Mineral Sunscreen,Suncare,$11.95,4.6 ,62,https://images.ulta.com/is/image/Ulta/2509290
+Babo Botanicals,Online Only After Sun Soothing Hydrating Organic Aloe Gel,Natural Skin Care,$14.95,4.7 ,11,https://images.ulta.com/is/image/Ulta/2531640
+Babo Botanicals,Online Only Sensitive Baby Fragrance Free Zinc Diaper Cream For Sensitive Eczema Prone Skin,Natural Skin Care,$11.95,0.0 ,0,https://images.ulta.com/is/image/Ulta/2531778
+Babo Botanicals,Online Only Sensitive Baby Fragrance Free Newborn Foam Shampoo & Wash,Natural Skin Care,$12.95,0.0 ,0,https://images.ulta.com/is/image/Ulta/2531775
+bareMinerals,Prime Time Foundation Primer,Face,$25.00,4.5 ,2007,https://images.ulta.com/is/image/Ulta/2302660
+bareMinerals,ORIGINAL Foundation Broad Spectrum SPF 15,Face,$31.00,4.7 ,12832,https://images.ulta.com/is/image/Ulta/5081179
+bareMinerals,Complexion Rescue Tinted Hydrating Gel Cream Broad Spectrum SPF 30,Face,$30.00,4.4 ,4683,https://images.ulta.com/is/image/Ulta/2283389
+bareMinerals,bareSkin Complete Coverage Serum Concealer,Face,$22.00,4.4 ,881,https://images.ulta.com/is/image/Ulta/2292912
+bareMinerals,barePRO Performance Wear Powder Foundation,Face,$31.00,4.3 ,2050,https://images.ulta.com/is/image/Ulta/2306184
+bareMinerals,Matte Foundation Broad Spectrum SPF 15,Face,$31.00,4.5 ,6235,https://images.ulta.com/is/image/Ulta/2209441
+bareMinerals,barePro Performance Wear Liquid Foundation Broad Spectrum SPF 20,Face,$34.00,4.1 ,1471,https://images.ulta.com/is/image/Ulta/2511395
+bareMinerals,Invisible Bronze Powder Bronzer,Face,$28.00,4.6 ,143,https://images.ulta.com/is/image/Ulta/2507377
+bareMinerals,Northern Lights: NUDES Gen Nude Eye & Cheek Palette,Makeup Gifts,$12.00,4.6 ,14,https://images.ulta.com/is/image/Ulta/2534501
+bareMinerals,bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20,Face,$30.00,4.0 ,3822,https://images.ulta.com/is/image/Ulta/2272501
+bareMinerals,Mineral Veil Finishing Powder,Face,$24.00,4.7 ,2003,https://images.ulta.com/is/image/Ulta/5081177
+bareMinerals,Nothing Beats the Original Complexion Kit,Gifts & Value Sets,$34.00,4.3 ,173,https://images.ulta.com/is/image/Ulta/2509660
+bareMinerals,SKINLONGEVITY Vital Power Infusion Serum,Treatment & Serums,$38.00,4.4 ,576,https://images.ulta.com/is/image/Ulta/2516013
+bareMinerals,bareSkin Perfecting Veil,Face,$27.00,4.4 ,523,https://images.ulta.com/is/image/Ulta/2278404
+bareMinerals,Concealer Broad Spectrum SPF 20,Face,$20.00,4.7 ,1680,https://images.ulta.com/is/image/Ulta/2093950
+bareMinerals,Blush,Face,$22.00,4.7 ,1443,https://images.ulta.com/is/image/Ulta/2058032
+bareMinerals,Gen Nude Powder Blush,Face,$24.00,4.7 ,39,https://images.ulta.com/is/image/Ulta/2521645
+bareMinerals,Warmth All Over Face Color,Face,$22.00,4.7 ,1814,https://images.ulta.com/is/image/Ulta/2207054
+bareMinerals,Gen Nude Matte Liquid Lipcolor,Lips,$19.00,4.3 ,908,https://images.ulta.com/is/image/Ulta/2303740
+bareMinerals,Lasting Line Long-Wearing Eyeliner,Eyes,$17.00,4.3 ,585,https://images.ulta.com/is/image/Ulta/2267710
+bareMinerals,Discover barePro 3 Pc Liquid Foundation Starter Kit,Makeup Gifts,$34.00,4.4 ,33,https://images.ulta.com/is/image/Ulta/2531906
+bareMinerals,BAREPRO 16-HR Full Coverage Concealer,Face,$24.00,4.1 ,62,https://images.ulta.com/is/image/Ulta/2524219
+bareMinerals,Prime Time BB Primer-Cream Daily Defense Broad Spectrum SPF 30,Face,$27.00,4.5 ,673,https://images.ulta.com/is/image/Ulta/2302663
+bareMinerals,Gen Nude Rose Eyeshadow Palette,Makeup Gifts,$29.00,4.4 ,15,https://images.ulta.com/is/image/Ulta/2527055
+bareMinerals,Well-Rested Eye Brightener Broad Spectrum SPF 20,Eyes,$20.00,4.6 ,1119,https://images.ulta.com/is/image/Ulta/2124551
+bareMinerals,Milky Way All-Day Touch-Up Trio,Makeup Gifts,$20.00,3.3 ,9,https://images.ulta.com/is/image/Ulta/2534502
+bareMinerals,Moxie Plumping Lip Gloss,Lips,$18.00,4.6 ,222,https://images.ulta.com/is/image/Ulta/2509640
+bareMinerals,Bare Haven Essential Moisturizing Soft Cream,Moisturizers,$35.00,4.7 ,274,https://images.ulta.com/is/image/Ulta/2296215
+bareMinerals,Mineral Veil Finishing Powder Broad Spectrum SPF 25,Face,$24.00,4.7 ,1114,https://images.ulta.com/is/image/Ulta/2215316
+bareMinerals,Skinlongevity Vital Power Sleeping Gel Cream,Moisturizers,$38.00,4.9 ,17,https://images.ulta.com/is/image/Ulta/2533292
+bareMinerals,Correcting Concealer Broad Spectrum SPF 20,Face,$22.00,4.4 ,1414,https://images.ulta.com/is/image/Ulta/2248834
+bareMinerals,Hydrating Mineral Veil Finishing Powder,Face,$24.00,4.5 ,589,https://images.ulta.com/is/image/Ulta/2211641
+bareMinerals,Illuminating Mineral Veil Finishing Powder,Face,$24.00,4.6 ,848,https://images.ulta.com/is/image/Ulta/2138919
+bareMinerals,Butter Drench Restorative Rich Cream,Moisturizers,$38.00,4.7 ,317,https://images.ulta.com/is/image/Ulta/2296207
+bareMinerals,Thank you Gorgeous 3 Pc Gorgeous Gratitude Collection,Makeup Gifts,$19.00,4.5 ,47,https://images.ulta.com/is/image/Ulta/2506468
+bareMinerals,Pure Plush Gentle Deep Cleansing Foam,Cleansers,$22.00,4.5 ,359,https://images.ulta.com/is/image/Ulta/2296211
+bareMinerals,Beautiful Finish Brush,Makeup Brushes & Tools,$32.00,4.3 ,213,https://images.ulta.com/is/image/Ulta/2286892
+bareMinerals,Gen Nude Neutral Eyeshadow Palette,Makeup Gifts,$29.00,4.6 ,15,https://images.ulta.com/is/image/Ulta/2527051
+bareMinerals,Ageless Genius Firming & Wrinkle Smoothing Serum,Treatment & Serums,$60.00,5.0 ,8,https://images.ulta.com/is/image/Ulta/2521604
+bareMinerals,Full Flawless Face Brush,Makeup Brushes & Tools,$28.00,4.0 ,299,https://images.ulta.com/is/image/Ulta/2160048
+bareMinerals,Lash Domination Volumizing Mascara,Eyes,$19.00,4.0 ,445,https://images.ulta.com/is/image/Ulta/2299546
+bareMinerals,Prime Time Eyelid Primer,Eyes,$19.00,4.6 ,451,https://images.ulta.com/is/image/Ulta/2302659
+bareMinerals,Gen Nude Eyeshadow + Primer,Eyes,$20.00,4.5 ,19,https://images.ulta.com/is/image/Ulta/2527044
+bareMinerals,Prime Time Brightening Foundation Primer,Face,$25.00,4.2 ,650,https://images.ulta.com/is/image/Ulta/2302661
+bareMinerals,Gen Nude Radiant Lipstick,Lips,$20.00,4.3 ,373,https://images.ulta.com/is/image/Ulta/2303719
+bareMinerals,Ageless Genius Firming & Wrinkle Smoothing Eye Cream,Eye Treatments,$48.00,4.2 ,9,https://images.ulta.com/is/image/Ulta/2521626
+bareMinerals,Love Every Lash Micro Defining Mascara,Eyes,$19.00,5.0 ,5,https://images.ulta.com/is/image/Ulta/2527058
+bareMinerals,Glimmer Eyeshadow,Eyes,$15.00,4.7 ,749,https://images.ulta.com/is/image/Ulta/2111576
+bareMinerals,"Kiss Me, It's My Birthday 3 Pc Party-Perfect Collection",Gifts & Value Sets,$28.00,4.6 ,45,https://images.ulta.com/is/image/Ulta/2506471
+bareMinerals,Gen Nude Buttercream Lip Gloss,Lips,$19.00,4.4 ,300,https://images.ulta.com/is/image/Ulta/2303704
+bareMinerals,Smoothing Face Brush,Makeup Brushes & Tools,$28.00,4.5 ,306,https://images.ulta.com/is/image/Ulta/2283420
+bareMinerals,Flawless Application Face Brush,Makeup Brushes & Tools,$22.00,4.2 ,218,https://images.ulta.com/is/image/Ulta/2072347
+bareMinerals,Perfecting Face Brush,Makeup Brushes & Tools,$28.00,4.3 ,781,https://images.ulta.com/is/image/Ulta/2272522
+bareMinerals,One Fine Line Micro Liner,Eyes,$18.00,4.0 ,25,https://images.ulta.com/is/image/Ulta/2527063
+bareMinerals,Tinted Mineral Veil,Face,$24.00,4.6 ,358,https://images.ulta.com/is/image/Ulta/2122525
+bareMinerals,Skinsorials Dirty Detox Skin Glowing & Refining Mud Mask,Treatment & Serums,$35.00,4.8 ,23,https://images.ulta.com/is/image/Ulta/2306175
+bareMinerals,Oil Obsessed Total Cleansing Oil,Cleansers,$30.00,4.5 ,186,https://images.ulta.com/is/image/Ulta/2296214
+bareMinerals,Statement Matte Liquid Lipcolor,Lips,$19.00,4.1 ,99,https://images.ulta.com/is/image/Ulta/2509662
+bareMinerals,Clear Radiance All Over Face Color,Face,$22.00,4.7 ,222,https://images.ulta.com/is/image/Ulta/2093952
+bareMinerals,Smart Combination Smoothing Lightweight Emulsion,Moisturizers,$35.00,4.5 ,122,https://images.ulta.com/is/image/Ulta/2296216
+bareMinerals,Glee All Over Face Color,Face,$22.00,4.7 ,1814,https://images.ulta.com/is/image/Ulta/2207374
+bareMinerals,Faux Tan All Over Face Color,Face,$22.00,4.7 ,1814,https://images.ulta.com/is/image/Ulta/2207373
+bareMinerals,True Oasis Oil-Free Replenishing Gel Cream,Moisturizers,$32.00,4.5 ,146,https://images.ulta.com/is/image/Ulta/2296208
+bareMinerals,Lips To-Go 2 Pc Mini Gen Nude Lipcolors,Makeup Gifts,$12.00,4.2 ,5,https://images.ulta.com/is/image/Ulta/2533295
+bareMinerals,Lashtopia Mega Volume Mineral-Based Mascara,Eyes,$19.00,3.9 ,31,https://images.ulta.com/is/image/Ulta/2527060
+bareMinerals,Complexion Rescue Defense Radiant Protective Veil Broad Spectrum SPF 30,Face,$39.00,4.0 ,31,https://images.ulta.com/is/image/Ulta/2533291
+bareMinerals,Gen Nude Copper Eyeshadow Palette,Makeup Gifts,$29.00,4.6 ,10,https://images.ulta.com/is/image/Ulta/2527066
+bareMinerals,Gen Nude Patent Lip Lacquer,Lips,$19.00,3.9 ,38,https://images.ulta.com/is/image/Ulta/2521612
+bareMinerals,Good Hydrations Silky Face Primer,Face,$26.00,4.4 ,41,https://images.ulta.com/is/image/Ulta/2511422
+bareMinerals,Well-Cared For Brush Conditioning Shampoo,Makeup Brushes & Tools,$14.00,4.6 ,217,https://images.ulta.com/is/image/Ulta/2124536
+bareMinerals,Invisible Glow Powder Highlighter,Face,$28.00,3.9 ,75,https://images.ulta.com/is/image/Ulta/2507371
+bareMinerals,Mineral Cleansing Wipes,Cleansers,$15.00,4.6 ,7,https://images.ulta.com/is/image/Ulta/2533287
+bareMinerals,SkinLongevity Vital Power Eye Gel Cream,Eye Treatments,$32.00,3.9 ,33,https://images.ulta.com/is/image/Ulta/2511425
+bareMinerals,True All Over Face Color,Face,$22.00,4.5 ,193,https://images.ulta.com/is/image/Ulta/2207372
+bareMinerals,Blemish Remedy Acne Treatment Gelée Cleanser,Cleansers,$20.00,4.6 ,116,https://images.ulta.com/is/image/Ulta/2296212
+bareMinerals,Lash Domination Volumizing Mascara Petite Precision,Eyes,$19.00,3.7 ,184,https://images.ulta.com/is/image/Ulta/2299547
+bareMinerals,Brilliant Future Age Defense & Renew Serum,Treatment & Serums,$55.00,4.6 ,28,https://images.ulta.com/is/image/Ulta/2503441
+bareMinerals,Rose Radiance All-Over Face Color,Face,$22.00,4.6 ,183,https://images.ulta.com/is/image/Ulta/2124549
+bareMinerals,Congrats Beautiful 3 Pc Celebratory Collection,Gifts & Value Sets,$30.00,4.0 ,24,https://images.ulta.com/is/image/Ulta/2506470
+bareMinerals,Gen Nude Under Over Lip Liner,Lips,$16.00,4.4 ,93,https://images.ulta.com/is/image/Ulta/2303765
+bareMinerals,Lash Domination Ink Liner,Eyes,$19.00,4.3 ,168,https://images.ulta.com/is/image/Ulta/2299535
+bareMinerals,Pure Radiance All-Over Face Color,Face,$22.00,4.5 ,217,https://images.ulta.com/is/image/Ulta/2138917
+bareMinerals,Core Coverage Brush,Makeup Brushes & Tools,$30.00,4.1 ,142,https://images.ulta.com/is/image/Ulta/2306214
+bareMinerals,Brow Master Sculpting Pencil,Eyes,$22.00,2.9 ,9,https://images.ulta.com/is/image/Ulta/2527069
+bareMinerals,Ageless Genius Firming & Wrinkle Smoothing Neck Cream,Moisturizers,$45.00,3.6 ,7,https://images.ulta.com/is/image/Ulta/2521611
+bareMinerals,Mini Prime Time Foundation Primer,Travel Size,$12.00,5.0 ,2,https://images.ulta.com/is/image/Ulta/2536789
+bareMinerals,Gen Nude Latte Eyeshadow Palette,Makeup Gifts,$29.00,4.4 ,8,https://images.ulta.com/is/image/Ulta/2527059
+bareMinerals,Luxe Performance Brush,Makeup Brushes & Tools,$30.00,4.7 ,56,https://images.ulta.com/is/image/Ulta/2511424
+bareMinerals,Blemish Remedy Acne Clearing Treatment Serum,Treatment & Serums,$42.00,4.0 ,45,https://images.ulta.com/is/image/Ulta/2503443
+bareMinerals,Combo Control Milky Face Primer,Face,$26.00,3.7 ,38,https://images.ulta.com/is/image/Ulta/2511420
+bareMinerals,A Little Sun Face Color,Face,$22.00,4.5 ,175,https://images.ulta.com/is/image/Ulta/2161798
+bareMinerals,Statement Luxe Shine Lipstick,Lips,$20.00,4.5 ,46,https://images.ulta.com/is/image/Ulta/2509644
+bareMinerals,Flawless Performance 3 Pc barePro Introductory Collection,Gifts & Value Sets,$34.00,4.2 ,59,https://images.ulta.com/is/image/Ulta/2511847
+bareMinerals,Glimpse Eyeshadow,Eyes,$15.00,4.6 ,337,https://images.ulta.com/is/image/Ulta/2094071
+bareMinerals,Brilliant Future Age Defense & Renew Eye Cream,Eye Treatments,$38.00,4.1 ,55,https://images.ulta.com/is/image/Ulta/2503445
+bareMinerals,BAREPRO Glow Highlighter,Face,$28.00,4.0 ,6,https://images.ulta.com/is/image/Ulta/2533286
+bareMinerals,Eternalixir Skin-Volumizing Oil Serum,Treatment & Serums,$55.00,4.5 ,21,https://images.ulta.com/is/image/Ulta/2503442
+bareMinerals,Clay Chameleon Transforming Purifying Cleanser,Cleansers,$22.00,4.6 ,109,https://images.ulta.com/is/image/Ulta/2296213
+bareMinerals,Quick Change Brush Cleaner,Makeup Brushes & Tools,$18.00,4.4 ,84,https://images.ulta.com/is/image/Ulta/2124535
+bareMinerals,Mineral Cleansing Water,Cleansers,$18.00,3.8 ,6,https://images.ulta.com/is/image/Ulta/2527061
+bareMinerals,Skinsorials Mask Essentials Mask Smoothing Brush & Mask Removal Cloth,Cleansers,$18.00,4.7 ,6,https://images.ulta.com/is/image/Ulta/2306171
+bareMinerals,Claymates Mask Duo Be Pure & Be Dewy,Treatment & Serums,$35.00,5.0 ,1,https://images.ulta.com/is/image/Ulta/2533817
+bareMinerals,Online Only Precious Metals Eyeshadow,Eyes,$17.00,4.8 ,4,https://images.ulta.com/is/image/Ulta/2529298
+bareMinerals,Eyeshadow,Eyes,$15.00,4.5 ,549,https://images.ulta.com/is/image/Ulta/2094076
+bareMinerals,Round The Clock Intense Cream-Glide Eyeliner,Eyes,$17.00,4.4 ,312,https://images.ulta.com/is/image/Ulta/2289430
+bareMinerals,Skinsorials Double Cleansing Brush,Cleansers,$18.00,3.5 ,28,https://images.ulta.com/is/image/Ulta/2306172
+bareMinerals,Claymates Mask Duo Be Bright & Be Firm,Treatment & Serums,$35.00,3.0 ,1,https://images.ulta.com/is/image/Ulta/2533816
+bareMinerals,Statement Under Over Lip Liner,Lips,$16.00,4.5 ,12,https://images.ulta.com/is/image/Ulta/2509672
+bareMinerals,Desert Sunset,Makeup Gifts,$12.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2541259
+bareMinerals,Desert Nudes Eye Palette 8 Shades of Wearable Ready Eyeshadow,Makeup Gifts,$34.00,4.2 ,6,https://images.ulta.com/is/image/Ulta/2524227
+bareMinerals,Desert Nudes 3 Pc Mini Gen Nude Patent Lip Lacquer Collection,Makeup Gifts,$20.00,3.6 ,5,https://images.ulta.com/is/image/Ulta/2524231
+bareMinerals,Online Only bareNaturals READY Eyeshadow 14.0 Palette,Makeup Gifts,$45.00,4.3 ,30,https://images.ulta.com/is/image/Ulta/2519909
+bareMinerals,Make Mine Matte Liquid Lipcolor Set,Makeup Gifts,$24.00,4.6 ,5,https://images.ulta.com/is/image/Ulta/2527068
+Beautyblender,Online Only All.About.Face,Gifts & Value Sets,$42.00,3.4 ,7,https://images.ulta.com/is/image/Ulta/2540555
+Beautyblender,The Original Beautyblender,Makeup Brushes & Tools,$20.00,4.6 ,283,https://images.ulta.com/is/image/Ulta/2530759
+Beautyblender,Online Only Two.Bb.Clean By Beautyblender,Makeup Gifts,$45.00,4.5 ,13,https://images.ulta.com/is/image/Ulta/2530730
+Beautyblender,Online Only Beautyblender Pro,Makeup Brushes & Tools,$20.00,4.7 ,42,https://images.ulta.com/is/image/Ulta/2530725
+Beautyblender,Online Only Blender Defender,Makeup Brushes & Tools,$12.00,4.4 ,14,https://images.ulta.com/is/image/Ulta/2536332
+Beautyblender,Online Only Beautyblender Nude,Makeup Brushes & Tools,$20.00,4.9 ,17,https://images.ulta.com/is/image/Ulta/2530724
+Beautyblender,Blendercleanser Solid,Makeup Brushes & Tools,$16.00,4.6 ,182,https://images.ulta.com/is/image/Ulta/2530760
+Beautyblender,Online Only Liquid Blendercleanser,Makeup Brushes & Tools,$18.00,4.4 ,58,https://images.ulta.com/is/image/Ulta/2530728
+Beautyblender,Online Only Power Pocket Puff Dual Sided Powder Puff,Makeup Brushes & Tools,$15.00,4.3 ,6,https://images.ulta.com/is/image/Ulta/2538970
+Beautyblender,Online Only Beautyblender Micro.Mini,Makeup Brushes & Tools,$18.00,4.1 ,52,https://images.ulta.com/is/image/Ulta/2530727
+Beautyblender,Online Only Keep.It.Clean,Makeup Brushes & Tools,$20.00,4.0 ,3,https://images.ulta.com/is/image/Ulta/2530729
+Beautyblender,Online Only Beautyblender Pure,Makeup Brushes & Tools,$20.00,4.6 ,8,https://images.ulta.com/is/image/Ulta/2530723
+Beautyblender,Online Only Instaclean Waterless Sponge and Brush Cleansing Spray,Makeup Brushes & Tools,$16.00,3.0 ,4,https://images.ulta.com/is/image/Ulta/2536331
+Becca,Volcano Goddess Eyeshadow Palette,Makeup Gifts,$46.00,3.4 ,45,https://images.ulta.com/is/image/Ulta/2535528
+Becca,Glow On Trio,Makeup Gifts,$15.00,4.7 ,24,https://images.ulta.com/is/image/Ulta/2538293
+Becca,Shimmering Skin Perfector Pressed Highlighter,Face,$38.00,4.7 ,1053,https://images.ulta.com/is/image/Ulta/2513933
+Becca,"BECCA x Khloé Kardashian & Malika Haqq Bronze, Blush & Glow Palette",Face,$44.00,4.1 ,84,https://images.ulta.com/is/image/Ulta/2539116
+Becca,Mineral Blush,Face,$32.00,4.7 ,111,https://images.ulta.com/is/image/Ulta/2276667
+Becca,Glow Gloss,Lips,$22.00,4.5 ,17,https://images.ulta.com/is/image/Ulta/2527029
+Becca,Shimmering Skin Perfector Luminous Blush,Face,$34.00,4.5 ,77,https://images.ulta.com/is/image/Ulta/2302143
+Becca,Ultimate Coverage 24-Hour Foundation,Face,$44.00,4.0 ,461,https://images.ulta.com/is/image/Ulta/2529033
+Becca,Under Eye Brightening Corrector,Face,$32.00,4.3 ,431,https://images.ulta.com/is/image/Ulta/2283630
+Becca,Hydra-Mist Set & Refresh Powder,Face,$38.00,4.6 ,474,https://images.ulta.com/is/image/Ulta/2525359
+Becca,BECCA X Chrissy Cravings Glow Kitchen Kit,Makeup Gifts,$44.00,4.2 ,23,https://images.ulta.com/is/image/Ulta/2537421
+Becca,Backlight Priming Filter,Face,$38.00,4.5 ,457,https://images.ulta.com/is/image/Ulta/2291329
+Becca,BECCA x Khloé Kardashian & Malika Haqq Ultimate Lipstick Love,Lips,$24.00,4.2 ,30,https://images.ulta.com/is/image/Ulta/2539113
+Becca,BECCA X Chrissy Cravings Lip Icing Glow Gloss Kit,Makeup Gifts,$29.00,3.0 ,14,https://images.ulta.com/is/image/Ulta/2537354
+Becca,BECCA x Khloé Kardashian & Malika Haqq Glow Letters,Face,$18.00,2.4 ,81,https://images.ulta.com/is/image/Ulta/2539119
+Becca,Lilac Love Lip & Highlighting Duo,Makeup Gifts,$25.00,4.6 ,26,https://images.ulta.com/is/image/Ulta/2535526
+Becca,Prep & Set Brightening Blur Kit,Makeup Gifts,$20.00,4.1 ,12,https://images.ulta.com/is/image/Ulta/2533156
+Becca,First Light Priming Filter,Face,$38.00,4.5 ,251,https://images.ulta.com/is/image/Ulta/2504893
+Becca,Ever-Matte Poreless Priming Perfector,Face,$38.00,3.9 ,574,https://images.ulta.com/is/image/Ulta/2276859
+Becca,Shimmering Skin Perfector Pressed Highlighter Gradient Glow,Face,$38.00,4.3 ,25,https://images.ulta.com/is/image/Ulta/2517351
+Becca,Skin Love Weightless Blur Foundation,Face,$44.00,4.0 ,135,https://images.ulta.com/is/image/Ulta/2532319
+Becca,Shimmering Skin Perfector Liquid Highlighter,Face,$41.00,4.5 ,223,https://images.ulta.com/is/image/Ulta/2513935
+Becca,Aqua Luminous Perfecting Foundation,Face,$44.00,3.8 ,404,https://images.ulta.com/is/image/Ulta/2296727
+Becca,Sunlit Bronzer,Face,$38.00,4.7 ,85,https://images.ulta.com/is/image/Ulta/2508998
+Becca,Anti-Fatigue Under Eye Primer,Eyes,$32.00,3.4 ,40,https://images.ulta.com/is/image/Ulta/2525361
+Becca,Soft Light Blurring Powder,Face,$38.00,4.0 ,88,https://images.ulta.com/is/image/Ulta/2504894
+Becca,Aqua Luminous Perfecting Concealer,Face,$32.00,3.9 ,76,https://images.ulta.com/is/image/Ulta/2304484
+Becca,Shimmering Skin Perfector Pressed Highlighter Mini,Travel Size,$19.00,4.3 ,13,https://images.ulta.com/is/image/Ulta/2527037
+Becca,Limited Edition Shimmering Skin Perfector Pressed,Face,$38.00,4.7 ,105,https://images.ulta.com/is/image/Ulta/2513932
+Becca,Online Only Glow Essentials,Makeup Gifts,$39.00,3.7 ,3,https://images.ulta.com/is/image/Ulta/2535897
+Becca,Breast Cancer Awareness Shimmering Skin Perfector Pressed Highlighter,Makeup Gifts,$38.00,5.0 ,10,https://images.ulta.com/is/image/Ulta/2533158
+Becca,Under Eye Brightening Setting Powder,Face,$25.00,3.3 ,27,https://images.ulta.com/is/image/Ulta/2525358
+Becca,Skin Love Glow Elixir,Treatment & Serums,$48.00,4.5 ,109,https://images.ulta.com/is/image/Ulta/2532300
+Becca,Online Only Travel Size Backlight Priming Filter,Travel Size,$18.00,4.4 ,22,https://images.ulta.com/is/image/Ulta/2509879
+Becca,Online Only Travel Size Shimmering Skin Perfector,Face,$19.00,4.3 ,83,https://images.ulta.com/is/image/Ulta/2283805
+Becca,Lush Lip Colour Balm,Lips,$22.00,4.3 ,96,https://images.ulta.com/is/image/Ulta/2515833
+Becca,Ultimate Coverage Longwear Concealer,Face,$29.00,4.3 ,139,https://images.ulta.com/is/image/Ulta/2532876
+Becca,Skin Love Glow Glaze Stick,Face,$28.00,4.2 ,42,https://images.ulta.com/is/image/Ulta/2532318
+Becca,Prep & Set Matte Never Flat Kit,Makeup Gifts,$20.00,5.0 ,4,https://images.ulta.com/is/image/Ulta/2533157
+Becca,Online Only Travel Size First Light Priming Filter,Travel Size,$18.00,3.9 ,16,https://images.ulta.com/is/image/Ulta/2509880
+Becca,Travel Size Velvet Blurring Primer Perfecting Base,Face,$18.00,2.4 ,12,https://images.ulta.com/is/image/Ulta/2532893
+Becca,BECCA x Chrissy Teigen Endless Bronze & Glow,Face,$38.00,4.1 ,9,https://images.ulta.com/is/image/Ulta/2532886
+Becca,BECCA x Chrissy Teigen Glow Body Oil,Face,$42.00,3.1 ,12,https://images.ulta.com/is/image/Ulta/2532888
+Becca,BECCA x Chrissy Teigen Glow Gloss,Lips,$22.00,4.6 ,8,https://images.ulta.com/is/image/Ulta/2532892
+Becca,Online Only Travel Size Ever-Matte Poreless Priming Perfector,Travel Size,$15.00,3.9 ,34,https://images.ulta.com/is/image/Ulta/2306508
+BH Cosmetics,Take Me Back to Brazil - 35 Color Pressed Pigment Palette,Gifts & Value Sets,$18.00,3.9 ,334,https://images.ulta.com/is/image/Ulta/2524799
+BH Cosmetics,Marble Luxe - 10 Pc Brush Set,Makeup Brushes & Tools,$38.00,5.0 ,18,https://images.ulta.com/is/image/Ulta/2536341
+BH Cosmetics,Online Only Pretty in Pink - 10 Piece Brush Set with Cosmetic Bag,Makeup Brushes & Tools,$23.00,5.0 ,6,https://images.ulta.com/is/image/Ulta/2536498
+BH Cosmetics,Take Me Back To Brazil: Rio Edition - 35 Color Shadow Palette,Eyes,$18.00,4.2 ,57,https://images.ulta.com/is/image/Ulta/2535937
+BH Cosmetics,Galaxy Chic Baked Eyeshadow Palette,Eyes,$18.00,4.7 ,440,https://images.ulta.com/is/image/Ulta/2506622
+BH Cosmetics,Zodiac 25 Color Eyeshadow & Highlighter Palette,Eyes,$24.00,4.7 ,170,https://images.ulta.com/is/image/Ulta/2526752
+BH Cosmetics,Aurora Lights - 18 Color Baked Eyeshadow Palette,Eyes,$18.00,4.8 ,65,https://images.ulta.com/is/image/Ulta/2532473
+BH Cosmetics,Online Only Crystal Quartz - 12 Piece Brush Set with Cosmetic Bag,Makeup Brushes & Tools,$26.00,4.6 ,33,https://images.ulta.com/is/image/Ulta/2536340
+BH Cosmetics,"ItsMyRayeRaye - 21 Color Eyeshadow, Highlighter & Contour Palette",Face,$22.50,4.6 ,143,https://images.ulta.com/is/image/Ulta/2524788
+BH Cosmetics,Online Only Smoke N Mirrors - 10 Pc Brush Set with Cosmetic Bag,Makeup Brushes & Tools,$28.00,5.0 ,4,https://images.ulta.com/is/image/Ulta/2536503
+BH Cosmetics,Aurora Lights - 10 Piece Brush Set with Cosmetic Bag,Makeup Brushes & Tools,$24.00,4.9 ,15,https://images.ulta.com/is/image/Ulta/2532474
+BH Cosmetics,Online Only BH Signature Rose Gold - 13 Piece Brush Set,Makeup Brushes & Tools,$24.00,4.8 ,26,https://images.ulta.com/is/image/Ulta/2536214
+BH Cosmetics,Weekend Festival - 20 Color Shadow Palette,Eyes,$18.00,4.9 ,90,https://images.ulta.com/is/image/Ulta/2526538
+BH Cosmetics,Supernova 18 Color Baked Eyeshadow Palette,Eyes,$18.00,4.7 ,230,https://images.ulta.com/is/image/Ulta/2506649
+BH Cosmetics,Solar Flare - 18 Color Baked Eyeshadow Palette,Eyes,$18.00,4.7 ,56,https://images.ulta.com/is/image/Ulta/2524796
+BH Cosmetics,Desert Oasis - 19 Color Shadow & Highlighter Palette,Eyes,$22.00,4.9 ,70,https://images.ulta.com/is/image/Ulta/2536531
+BH Cosmetics,Shaaanxo The Remix- 18 Color Shadow Palette,Eyes,$19.00,4.9 ,53,https://images.ulta.com/is/image/Ulta/2524789
+BH Cosmetics,Online Only Brilliance Bronzer,Face,$10.00,4.9 ,7,https://images.ulta.com/is/image/Ulta/2537911
+BH Cosmetics,Spotlight Highlight - 6 Color Palette,Gifts & Value Sets,$17.00,5.0 ,24,https://images.ulta.com/is/image/Ulta/2524794
+BH Cosmetics,Studio Pro Contour Palette,Face,$15.00,4.1 ,43,https://images.ulta.com/is/image/Ulta/2506657
+BH Cosmetics,Marvycorn by Marvyn Macnificent - 13 Color Shadow & Highlighter Palette,Eyes,$17.50,3.5 ,24,https://images.ulta.com/is/image/Ulta/2530508
+BH Cosmetics,Blacklight Highlight - 6 Color Palette,Gifts & Value Sets,$17.00,4.8 ,35,https://images.ulta.com/is/image/Ulta/2524792
+BH Cosmetics,Zodiac Love Signs - 25 Color Eyeshadow & Highlighter Palette,Eyes,$24.00,5.0 ,1,https://images.ulta.com/is/image/Ulta/2540365
+BH Cosmetics,Studio Pro Total Coverage Concealer,Face,$6.00,4.3 ,44,https://images.ulta.com/is/image/Ulta/2524818
+BH Cosmetics,BH Liquid Foundation - Naturally Flawless,Face,$9.50,3.4 ,67,https://images.ulta.com/is/image/Ulta/2538711
+BH Cosmetics,Duolight Highlight - 9 Color Palette,Eyes,$19.00,4.4 ,11,https://images.ulta.com/is/image/Ulta/2536138
+BH Cosmetics,Studio Pro HD Brow Pencil,Eyes,$7.00,4.6 ,38,https://images.ulta.com/is/image/Ulta/2524801
+BH Cosmetics,Sylvia Gani - 22 Color Shadow Palette,Eyes,$24.00,4.1 ,14,https://images.ulta.com/is/image/Ulta/2540371
+BH Cosmetics,Online Only Floral Blush Duo Cheek Color,Face,$8.00,4.5 ,42,https://images.ulta.com/is/image/Ulta/2506637
+BH Cosmetics,Online Only Lavish Elegance - 15 Pc Brush Set With Cosmetic Bag,Makeup Brushes & Tools,$29.00,4.0 ,1,https://images.ulta.com/is/image/Ulta/2536513
+BH Cosmetics,Liquid Lipstick Long Wearing Matte Lipstick,Lips,$9.00,4.0 ,78,https://images.ulta.com/is/image/Ulta/2506610
+BH Cosmetics,Online Only Royal Affair - 3 Piece Glitter Set,Eyes,$19.50,3.3 ,3,https://images.ulta.com/is/image/Ulta/2538817
+BH Cosmetics,Liquid Eyeliner,Eyes,$7.00,4.1 ,57,https://images.ulta.com/is/image/Ulta/2506653
+BH Cosmetics,Online Only Detailing Fan Brush 6,Makeup Brushes & Tools,$6.00,5.0 ,3,https://images.ulta.com/is/image/Ulta/2536512
+BH Cosmetics,Online Only Studio Pro Makeup Setting Spray,Face,$11.00,3.4 ,43,https://images.ulta.com/is/image/Ulta/2506650
+BH Cosmetics,Online Only Cheek Fan Brush 2,Makeup Brushes & Tools,$11.50,5.0 ,1,https://images.ulta.com/is/image/Ulta/2536505
+BH Cosmetics,Online Only Concealer Fan Brush 5,Makeup Brushes & Tools,$7.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2536520
+BH Cosmetics,Online Only Eye Fan Brush 4,Makeup Brushes & Tools,$7.00,3.5 ,2,https://images.ulta.com/is/image/Ulta/2536510
+BH Cosmetics,Online Only Metal Rose - 11 Piece Brush Set with Cosmetic Bag,Makeup Brushes & Tools,$25.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2536507
+BH Cosmetics,Online Only All Over Fan Brush 1,Makeup Brushes & Tools,$12.50,3.0 ,1,https://images.ulta.com/is/image/Ulta/2536508
+BH Cosmetics,Online Only Smudger Fan Brush 8,Makeup Brushes & Tools,$6.00,3.5 ,2,https://images.ulta.com/is/image/Ulta/2536517
+BH Cosmetics,Online Only Primer Fan Brush 7,Makeup Brushes & Tools,$7.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2538836
+BH Cosmetics,Online Only Soft Liner Fan Brush 9,Makeup Brushes & Tools,$6.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2536519
+BH Cosmetics,Online Only Shading Fan Brush 3,Makeup Brushes & Tools,$11.00,0.0 ,0,https://images.ulta.com/is/image/Ulta/2536511
+BH Cosmetics,Metallic Liquid Lipstick,Lips,$4.49,3.4 ,14,https://images.ulta.com/is/image/Ulta/2506634
