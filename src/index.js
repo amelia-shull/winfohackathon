@@ -13,11 +13,11 @@ var hist = createBrowserHistory();
 
 ReactDOM.render(
   <Router 
-  basename={process.env.PUBLIC_URL}
+  basename={process.env.PUBLIC_URL+'/'}
   history={hist}>
     <Switch>
       {indexRoutes.map((prop, key) => {
-        return <Route path={prop.path} key={key} component={prop.component} />;
+        return <Route exact path={prop.path} key={key} component={prop.component} />;
       })}
     </Switch>
   </Router>,
